@@ -4,7 +4,7 @@ Hi! I'm Kévin, a 20 year old student and compter enthusiast. I am currently stu
 I am trying to get my hand on diverse technologies to gather as much knowledge as I can before I enter the professional world.
 
 <p align="center">
-  <br><img src="https://badges.pufler.dev/visits/KevinFroissart/Presentation"><br>
+  <br><img src="https://badges.pufler.dev/visits/KevinFroissart/KevinFroissart"><br>
   <b>I Have<br><img src="https://badges.pufler.dev/repos/KevinFroissart">
   <br><img src= "https://badges.pufler.dev/commits/yearly/KevinFroissart">
   <br>Been Here For</b><br><img src="https://badges.pufler.dev/years/KevinFroissart"></p>
