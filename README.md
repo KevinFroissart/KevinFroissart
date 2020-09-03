@@ -1,6 +1,3 @@
-<!--
-**KevinFroissart/KevinFroissart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About Me :wave:
 
 Hi! I'm Kévin, a 20 year old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Bachelor's Degree.
