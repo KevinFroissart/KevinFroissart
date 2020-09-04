@@ -1,4 +1,4 @@
-## About Me :wave:
+## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hi! I'm Kévin, a 20 year old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Bachelor's Degree.
 I am trying to get my hand on diverse technologies to gather as much knowledge as I can before I enter the professional world.
@@ -14,7 +14,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart/blob/master/R
 
 <a href="https://twitter.com/NXS_Arts" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
 
-## &#x1f4c8; My GitHub Stats
+## Technologies and Tools :wrench:
+
+## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/KevinFroissart/KevinFroissart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFroissart&,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
