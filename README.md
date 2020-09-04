@@ -8,7 +8,7 @@ I am trying to get my hand on diverse technologies to gather as much knowledge a
   <b>I Have<br><img src="https://badges.pufler.dev/repos/KevinFroissart">
   <br>Been Here For</b><br><img src="https://badges.pufler.dev/years/KevinFroissart"></p>
 
-Visit [this page](https://github.com/KevinFroissart/Presentation/blob/master/README.md) if you want to take a look at this README.
+Visit [this page](https://github.com/KevinFroissart/KevinFroissart/blob/master/README.md) if you want to take a look at this README.
 
 ## Find Me Elsewhere :computer:
 
