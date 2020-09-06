@@ -1,7 +1,7 @@
 ## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hi! I'm Kévin, a 20 year old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Bachelor's Degree.
-I am trying to get my hand on diverse technologies to gather as much knowledge as I can before I enter the professional world.
+I am trying to get my hand on diverse technologies to gather as much knowledge as I can before entering the professional world.
 
 <p align="center">
   <br><img src="https://badges.pufler.dev/visits/KevinFroissart/KevinFroissart"><br>
