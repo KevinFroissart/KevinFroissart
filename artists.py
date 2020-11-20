@@ -67,4 +67,4 @@ with open(path_to_git + "README.md", "w") as f:
     f.write(readme.format(template=template))
 
 
-os.system("git -C" + path_to_git + "add . && git -C " + path_to_git + "commit -m \"Update Artists\" && git -C" + path_to_git + " push")
+os.system("git -C " + path_to_git + " add . && git -C " + path_to_git + " commit -m \"Update Artists\" && git -C " + path_to_git + " push")
