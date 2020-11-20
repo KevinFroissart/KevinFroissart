@@ -36,6 +36,7 @@ for k, v in artist_dict.items():
     if not v:
         v = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
     res = requests.get(v).content
+    print(res)
     with open("artist_images\\" + v.split('/')[-1], "wb") as f:
         f.write(res)
     artist_dict[k] = "artist_images\\" + v.split('/')[-1]
