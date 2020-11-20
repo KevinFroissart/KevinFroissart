@@ -3,6 +3,8 @@ from lastfmcache import LastfmCache
 from PIL import Image
 import os
 
+path_to_git = "/home/kevin/git/KevinFroissart/"
+
 def crop_center(pil_img, crop_width, crop_height):
     img_width, img_height = pil_img.size
     return pil_img.crop(((img_width - crop_width) // 2,
@@ -13,7 +15,7 @@ def crop_center(pil_img, crop_width, crop_height):
 def crop_max_square(pil_img):
     return crop_center(pil_img, min(pil_img.size), min(pil_img.size))
 
-with open("/home/kevin/git/KevinFroissart/config.json", "r+") as f:
+with open(path_to_git + "config.json", "r+") as f:
     config = json.load(f)
 
 network = pylast.LastFMNetwork(api_key=config['apikey'], api_secret=config['secret'], username=config['username'], password_hash=pylast.md5(config['password']))
@@ -36,9 +38,9 @@ for k, v in artist_dict.items():
     if not v:
         v = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
     res = requests.get(v).content
-    with open("/home/kevin/git/KevinFroissart/artist_images/" + v.split('/')[-1], "wb") as f:
+    with open(path_to_git + "artist_images/" + v.split('/')[-1], "wb") as f:
         f.write(res)
-    artist_dict[k] = "/home/kevin/git/KevinFroissart/artist_images/" + v.split('/')[-1]
+    artist_dict[k] = path_to_git + "artist_images/" + v.split('/')[-1]
 
 new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
@@ -60,9 +62,9 @@ for artist in artist_dict.keys():
 template = template + " |\n"
 
 
-readme = open("/home/kevin/git/KevinFroissart/READMECOPY.md", "r").read()
-with open("/home/kevin/git/KevinFroissart/README.md", "w") as f:
+readme = open(path_to_git + "READMECOPY.md", "r").read()
+with open(path_to_git + "README.md", "w") as f:
     f.write(readme.format(template=template))
 
 
-os.system("git -C /home/kevin/git/KevinFroissart/ add . && git -C /home/kevin/git/KevinFroissart/ commit -m \"Update Artists\" && git -C /home/kevin/git/KevinFroissart/ push")
+os.system("git -C" + path_to_git + "add . && git -C " + path_to_git + "commit -m \"Update Artists\" && git -C" + path_to_git + " push")
