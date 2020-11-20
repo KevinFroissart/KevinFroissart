@@ -40,7 +40,7 @@ for k, v in artist_dict.items():
     res = requests.get(v).content
     with open(path_to_git + "artist_images/" + v.split('/')[-1], "wb") as f:
         f.write(res)
-    artist_dict[k] = path_to_git + "artist_images/" + v.split('/')[-1]
+    artist_dict[k] = "artist_images/" + v.split('/')[-1]
 
 new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
