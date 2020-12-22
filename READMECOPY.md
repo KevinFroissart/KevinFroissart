@@ -16,6 +16,8 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart/blob/master/R
 
 {template}
 
+{template2}
+
 ## Technologies and Tools :wrench:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
