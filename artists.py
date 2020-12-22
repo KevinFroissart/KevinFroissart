@@ -25,10 +25,16 @@ cache.enable_file_cache()
 
 try:
     artists = network.get_authenticated_user().get_top_artists(limit=6, period=pylast.PERIOD_7DAYS)
+    top_artist = network.get_authenticated_user().get_top_artists(limit=6, period="12month")
 except Exception as e:
     print(e)
 
 artist_dict = {}
+top_artist_dict = {}
+
+for a in top_artist:
+    artist = cache.get_artist(a.item.name)
+    top_artist_dict.update({ a.item.name : artist.cover_image })
 
 for a in artists:
     artist = cache.get_artist(a.item.name)
@@ -41,6 +47,14 @@ for k, v in artist_dict.items():
     with open(path_to_git + "artist_images/" + v.split('/')[-1], "wb") as f:
         f.write(res)
     artist_dict[k] = "artist_images/" + v.split('/')[-1]
+    
+for k, v in top_artist_dict.items():
+    if not v:
+        v = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    res = requests.get(v).content
+    with open(path_to_git + "artist_images/" + v.split('/')[-1], "wb") as f:
+        f.write(res)
+    top_artist_dict[k] = "artist_images/" + v.split('/')[-1]
 
 new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
@@ -54,6 +68,10 @@ template = """\
 ## Who I've Been Listening To This Week
 """
 
+template2 = """\
+## My top artists this year
+"""
+
 for image in artist_dict.values():
     template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
 template = template + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
@@ -61,10 +79,18 @@ for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
 template = template + " |\n"
 
+for image in top_artist_dict.values():
+    template2 = template2 + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
+template2 = template2 + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
+for artist in top_artist_dict.keys():
+    template2 = template2 + "| " + "<b>" + artist + "</b> "
+template2 = template2 + " |\n"
+
 
 readme = open(path_to_git + "READMECOPY.md", "r").read()
 with open(path_to_git + "README.md", "w") as f:
     f.write(readme.format(template=template))
+    f.write(readme.format(template2=template2))
 
 
 os.system("git -C " + path_to_git + " add . && git -C " + path_to_git + " commit -m \"Update Artists\" && git -C " + path_to_git + " push")
