@@ -68,10 +68,6 @@ template = """\
 ## Who I've Been Listening To This Week
 """
 
-template2 = """\
-## My top artists this year
-"""
-
 for image in artist_dict.values():
     template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
 template = template + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
@@ -79,18 +75,17 @@ for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
 template = template + " |\n"
 
-for image in top_artist_dict.values():
-    template2 = template2 + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
-template2 = template2 + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
-for artist in top_artist_dict.keys():
-    template2 = template2 + "| " + "<b>" + artist + "</b> "
-template2 = template2 + " |\n"
+template = template + "\n\n##My top artists this year"
 
+for image in top_artist_dict.values():
+    template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
+template = template + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
+for artist in top_artist_dict.keys():
+    template = template + "| " + "<b>" + artist + "</b> "
+template = template + " |\n"
 
 readme = open(path_to_git + "READMECOPY.md", "r").read()
 with open(path_to_git + "README.md", "w") as f:
     f.write(readme.format(template=template))
-    f.write(readme.format(template2=template2))
-
 
 os.system("git -C " + path_to_git + " add . && git -C " + path_to_git + " commit -m \"Update Artists\" && git -C " + path_to_git + " push")
