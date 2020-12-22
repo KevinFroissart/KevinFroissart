@@ -75,7 +75,9 @@ for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
 template = template + " |\n"
 
-template = template + "\n\n##My top artists this year"
+template = template + "\n\n" + """\
+## My top artists this year
+"""
 
 for image in top_artist_dict.values():
     template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
