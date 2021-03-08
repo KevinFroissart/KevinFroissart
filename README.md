@@ -15,9 +15,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart/blob/master/R
 <a href="https://twitter.com/NXS_Arts" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
 
 ## Who I've Been Listening To This Week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f69d64f20bab33a2f2f274c8d40c9181.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/561d672e48caf15bf3bfd33c658964b5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/757e4a25690cbbcf8b18629e4b3d27e5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/26e02471e6964564c5982722f7c39850.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b3970886647b4c6bad77c58409c3fb94.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41c7833ee2a51ca24cf9366779496391.jpg>  |
+ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Hi Tom</b> | <b>Ziak</b> | <b>FREE FLOW FLAVA</b> | <b>Phaxe</b> | <b>Sefyu</b> | <b>13 Block</b>  |
+ |
 
 
 ## My top artists this year
