@@ -15,9 +15,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart/blob/master/R
 <a href="https://twitter.com/NXS_Arts" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
 
 ## Who I've Been Listening To This Week
- |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/412d0fb6ff078d75ff7452ce27c2f19e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/89ce3102244a9c56d2f7f6127ff582c7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/be3979e1ccb4f71edae56756dd47cd71.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fde66582b181e426f05e05b4dc94a59a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/99b382b98e645e4fda270cea2e96da4c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abc29b9e8229daba1a08df75cacb6d60.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
- |
+| <b>ASHE 22</b> | <b>Benab</b> | <b>DA Uzi</b> | <b>Djadja & Dinaz</b> | <b>Frenetik</b> | <b>Gazo</b>  |
 
 
 ## My top artists this year
