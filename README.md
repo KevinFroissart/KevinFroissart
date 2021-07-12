@@ -15,9 +15,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart/blob/master/R
 <a href="https://twitter.com/NXS_Arts" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
 
 ## Who I've Been Listening To This Week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/efa6c565642d8f71928fffe3b3be509b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1ed17abcaaeb4857834b126d82b4d000.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/36e99b41aee71aa7e8cc733c1f5c2e1e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abc29b9e8229daba1a08df75cacb6d60.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ca9c854c1738678d69c7e5376b5b82d5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4b86a64a2d9447892c5987a63a006f08.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1ed17abcaaeb4857834b126d82b4d000.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/de39320285997b440b9506ffa65c2ccb.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>KEKRA</b> | <b>Nero</b> | <b>Kings Of The Rollers</b> | <b>Gazo</b> | <b>Dutchavelli</b> | <b>Jauz</b>  |
+| <b>Nero</b> | <b>ZHU</b>  |
 
 
 ## My top artists this year
