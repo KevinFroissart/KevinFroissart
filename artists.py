@@ -65,7 +65,7 @@ for a in glob.glob("artist_images\\*.jpg"):
 url_temp = "https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/"
 
 template = """\
-## Who I've Been Listening To This Week
+## Who I've been listening to this week
 """
 
 for image in artist_dict.values():
