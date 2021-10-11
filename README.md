@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e63901199f52efccd66586456ef1baf5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d70d9975c8490878f38264148668e93c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d1710c48f15bc2122b0f457ca8441f90.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e36874642394dbecda5a7e102dc007f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aa8dadfa0ca2f36ca2db8dd695613d77.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9ca431cdceb2bc4f8c0a3ccb85d44a48.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e63901199f52efccd66586456ef1baf5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/89e556e4f3202f0854105168c33c5c7d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d70d9975c8490878f38264148668e93c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a525646c2d3f0dc385650f91a1dfd9a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73ed4df66ee04081c04e446eb8e35946.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e36874642394dbecda5a7e102dc007f.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Kloud</b> | <b>1 800 PAIN</b> | <b>MoxiFloxi</b> | <b>El Tigr3</b> | <b>Imperial Circus Dead Decadence</b> | <b>Sam Houghton</b>  |
+| <b>Kloud</b> | <b>League of Legends</b> | <b>1 800 PAIN</b> | <b>Don Toliver</b> | <b>Blackstripe</b> | <b>El Tigr3</b>  |
 
 
 ## My top artists this year
