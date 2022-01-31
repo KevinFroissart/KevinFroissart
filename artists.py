@@ -3,7 +3,7 @@ from lastfmcache import LastfmCache
 from PIL import Image
 import os
 
-path_to_git = "/home/kevin/git/KevinFroissart/"
+path_to_git = "/mnt/c/Users/kevin/Documents/git/KevinFroissart/"
 
 def crop_center(pil_img, crop_width, crop_height):
     img_width, img_height = pil_img.size
