@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1c43414541d8a0d595db7ef09df67112.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8dd1ac0c07bf1a646da2ce72b82cdd1f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1da6aa7fd1f03b8a0b45426628cabdd3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1c43414541d8a0d595db7ef09df67112.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff59b316ce6aabe5132d5817bd74509e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Dxrk ダーク</b> | <b>IGARASHI KANTA</b> | <b>ゼロshirtokiya</b> | <b>Hensonn</b> | <b>SXGXVX</b> | <b>Falxce</b>  |
+| <b>Jnr Choi</b> | <b>IGARASHI KANTA</b> | <b>Vald</b> | <b>siniZter</b> | <b>ゼロshirtokiya</b> | <b>Dxrk ダーク</b>  |
 
 
 ## My top artists this year
