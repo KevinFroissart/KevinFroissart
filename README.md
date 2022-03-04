@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1da6aa7fd1f03b8a0b45426628cabdd3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1c43414541d8a0d595db7ef09df67112.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8dd1ac0c07bf1a646da2ce72b82cdd1f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fd08853f6f9bb6c4c0908d81f8bd14cb.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d1710c48f15bc2122b0f457ca8441f90.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/169b8318fddd7a545540c860c0eefd29.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5daa5e24bc1249fba9611d23263c6df5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2a829cc6035ad16e65baf2211309a9a1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd19359e17d1b16ddd1b72a583e259f0.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Jnr Choi</b> | <b>IGARASHI KANTA</b> | <b>Vald</b> | <b>ゼロshirtokiya</b> | <b>Hensonn</b> | <b>l19u1d</b>  |
+| <b>MoxiFloxi</b> | <b>Central Cee</b> | <b>Vald</b> | <b>Zamdane</b> | <b>Freeze Corleone</b> | <b>Stromae</b>  |
 
 
 ## My top artists this year
