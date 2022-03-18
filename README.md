@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/beaf80016c2b79bff2fcc46623198e7a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8638844d7027760b9bab851512949c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd19359e17d1b16ddd1b72a583e259f0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/de9aca817a1c4fa395366b3d456db7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5bcf78951e51df6f10a026febe017c0a.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/beaf80016c2b79bff2fcc46623198e7a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1e83ab5231040e514777eca9c41bcc46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e4a0cf1dbf7c21052f4aaead6672ea48.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fcb1563652a613b27c2fcf4d1bd0cf6a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c6ac49c97e218f3ff3ea5069cca327b5.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>13eam5</b> | <b>Kazzey</b> | <b>EVADE FROM 宇宙</b> | <b>Stromae</b> | <b>Bidlo</b> | <b>ZODIVK</b>  |
+| <b>Kazzey</b> | <b>Ninho</b> | <b>13eam5</b> | <b>Naps</b> | <b>Orelsan</b> | <b>Imagine Dragons</b>  |
 
 
 ## My top artists this year
