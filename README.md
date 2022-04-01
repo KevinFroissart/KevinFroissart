@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7a8a377af7e24039b3c5a87e8027510d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1e83ab5231040e514777eca9c41bcc46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/beaf80016c2b79bff2fcc46623198e7a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/39b3a2010767e03ebb26a488d21efed0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/05774ced93632715993d140b345e6b2f.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4decbea40c55c50b59121534c21ffa5f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7a319ef3eb88b73f0bab611879690d72.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a6fdfc4b11efa51d235ea86089abf988.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/690f0f4b5ce8a80ee1517d4609b2f277.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Kerchak</b> | <b>Laylow</b> | <b>Ninho</b> | <b>Kazzey</b> | <b>Soolking</b> | <b>ROSALÍA</b>  |
+| <b>Laylow</b> | <b>Niska</b> | <b>Vald</b> | <b>Zuukou Mayzie</b> | <b>Josman</b> | <b>WIT.</b>  |
 
 
 ## My top artists this year
