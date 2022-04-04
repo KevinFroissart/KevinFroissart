@@ -16,15 +16,15 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4decbea40c55c50b59121534c21ffa5f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7a319ef3eb88b73f0bab611879690d72.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a6fdfc4b11efa51d235ea86089abf988.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/690f0f4b5ce8a80ee1517d4609b2f277.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7a319ef3eb88b73f0bab611879690d72.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4decbea40c55c50b59121534c21ffa5f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/690f0f4b5ce8a80ee1517d4609b2f277.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c4ebafa0c2d3d7f01f67f3460955d70d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Laylow</b> | <b>Niska</b> | <b>Vald</b> | <b>Zuukou Mayzie</b> | <b>Josman</b> | <b>WIT.</b>  |
+| <b>Laylow</b> | <b>Vald</b> | <b>Zuukou Mayzie</b> | <b>Niska</b> | <b>WIT.</b> | <b>Di-Meh</b>  |
 
 
 ## My top artists this year
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/efa6c565642d8f71928fffe3b3be509b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/72b83581e1564042bcad11574d85ffff.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e63901199f52efccd66586456ef1baf5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4b86a64a2d9447892c5987a63a006f08.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/72b83581e1564042bcad11574d85ffff.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e63901199f52efccd66586456ef1baf5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/efa6c565642d8f71928fffe3b3be509b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4b86a64a2d9447892c5987a63a006f08.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Laylow</b> | <b>KEKRA</b> | <b>Nero</b> | <b>Kloud</b> | <b>SCH</b> | <b>Jauz</b>  |
+| <b>Laylow</b> | <b>Nero</b> | <b>Kloud</b> | <b>KEKRA</b> | <b>SCH</b> | <b>Jauz</b>  |
 
 
 ## Technologies and Tools :wrench:
