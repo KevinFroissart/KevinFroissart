@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2dc9ebde4cd303903653eaf10cec5934.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/670bdbdb543815537c1ad4083cd42408.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7a8a377af7e24039b3c5a87e8027510d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/05774ced93632715993d140b345e6b2f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/39b3a2010767e03ebb26a488d21efed0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1e83ab5231040e514777eca9c41bcc46.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aca40d4117834617a8c359e0b40c5172.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/adb5eebe279fb8a067ab2819b85f0a01.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ac84cba80ce94bf3b6f1e8ba66e51c34.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/058dd180c90fa99dd4dee981ef6184a8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5baaeaaa217049a2c9e7ea4189347792.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7acd1fd4f084aa7cea4a753b71b22c04.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Laylow</b> | <b>667</b> | <b>Kerchak</b> | <b>ROSALÍA</b> | <b>Soolking</b> | <b>Ninho</b>  |
+| <b>Gnarls Barkley</b> | <b>Macky Gee</b> | <b>La Caution</b> | <b>Disclosure</b> | <b>Feint</b> | <b>Gorillaz</b>  |
 
 
 ## My top artists this year
