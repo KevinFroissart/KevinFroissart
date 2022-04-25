@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c344cd3414bc850694cb382a851c2801.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/39bf04aa481ed769195f329b10e2b195.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5baaeaaa217049a2c9e7ea4189347792.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/edd4c7a0225bead85bdb064e5991899c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1a9da029e1881e491be6b60ce93e108d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a0314948eade430fc30e83612028783c.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c344cd3414bc850694cb382a851c2801.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/972e9986522c406da4cf1292461568a5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/39bf04aa481ed769195f329b10e2b195.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5baaeaaa217049a2c9e7ea4189347792.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/edd4c7a0225bead85bdb064e5991899c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f16677242b24bd85ef316ed7c3281c74.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Playboi Carti</b> | <b>Black Eyed Peas</b> | <b>Feint</b> | <b>Fox Stevenson</b> | <b>Drake</b> | <b>Daft Punk</b>  |
+| <b>Playboi Carti</b> | <b>System of a Down</b> | <b>Black Eyed Peas</b> | <b>Feint</b> | <b>Fox Stevenson</b> | <b>Kanye West</b>  |
 
 
 ## My top artists this year
