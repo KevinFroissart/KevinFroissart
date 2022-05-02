@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/972e9986522c406da4cf1292461568a5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c344cd3414bc850694cb382a851c2801.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f16677242b24bd85ef316ed7c3281c74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ab12972f551c59f4aed483918f9d842c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/edd4c7a0225bead85bdb064e5991899c.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ab12972f551c59f4aed483918f9d842c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f16677242b24bd85ef316ed7c3281c74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c344cd3414bc850694cb382a851c2801.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dc8c60b3f8f79162c0053838e283919f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/37c4c3d695479c6613bf246de02c0f00.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Polygon</b> | <b>System of a Down</b> | <b>Playboi Carti</b> | <b>Kanye West</b> | <b>blink-182</b> | <b>Fox Stevenson</b>  |
+| <b>Polygon</b> | <b>blink-182</b> | <b>Kanye West</b> | <b>Playboi Carti</b> | <b>Bring Me the Horizon</b> | <b>NTO</b>  |
 
 
 ## My top artists this year
