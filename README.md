@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ab12972f551c59f4aed483918f9d842c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f16677242b24bd85ef316ed7c3281c74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c344cd3414bc850694cb382a851c2801.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dc8c60b3f8f79162c0053838e283919f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/37c4c3d695479c6613bf246de02c0f00.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f16677242b24bd85ef316ed7c3281c74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/51b6c83f78a982a5eb1429569deddb5b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c344cd3414bc850694cb382a851c2801.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dc8c60b3f8f79162c0053838e283919f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5baaeaaa217049a2c9e7ea4189347792.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Polygon</b> | <b>blink-182</b> | <b>Kanye West</b> | <b>Playboi Carti</b> | <b>Bring Me the Horizon</b> | <b>NTO</b>  |
+| <b>Polygon</b> | <b>Kanye West</b> | <b>Andromedik</b> | <b>Playboi Carti</b> | <b>Bring Me the Horizon</b> | <b>Feint</b>  |
 
 
 ## My top artists this year
