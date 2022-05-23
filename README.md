@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a34fba333ef661b3ab38388b89e3a751.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ae52d0bfcfa8478cba8b63e7c94b8b18.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/45500bc2794bbac335a656c8240f5a47.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8ee856aa702a3e01ddede54af3380bf4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/51b6c83f78a982a5eb1429569deddb5b.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f54a732adbd0888c4cfec411fa4327c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c97c569e86e2a114af8da89fc834902a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8ee856aa702a3e01ddede54af3380bf4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/45500bc2794bbac335a656c8240f5a47.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/51b6c83f78a982a5eb1429569deddb5b.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Madonna</b> | <b>Infected Mushroom</b> | <b>Nelly Furtado</b> | <b>Polygon</b> | <b>Kanye West</b> | <b>Andromedik</b>  |
+| <b>Madonna</b> | <b>Playboi Carti</b> | <b>Polygon</b> | <b>Kanye West</b> | <b>Nelly Furtado</b> | <b>Andromedik</b>  |
 
 
 ## My top artists this year
