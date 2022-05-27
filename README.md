@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f54a732adbd0888c4cfec411fa4327c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c97c569e86e2a114af8da89fc834902a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f83c806343b85a507f4babbb6eecdac7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8ee856aa702a3e01ddede54af3380bf4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/45500bc2794bbac335a656c8240f5a47.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/51b6c83f78a982a5eb1429569deddb5b.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c97c569e86e2a114af8da89fc834902a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f54a732adbd0888c4cfec411fa4327c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4c5cc447ae5976aa80b9eefbb2f5fe10.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f0d6bb1b3ca626415cd4397b8caaf412.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/baee601c7b39478c8e1be29e77455611.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8ee856aa702a3e01ddede54af3380bf4.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Madonna</b> | <b>Playboi Carti</b> | <b>Polygon</b> | <b>Kanye West</b> | <b>Nelly Furtado</b> | <b>Andromedik</b>  |
+| <b>Playboi Carti</b> | <b>Madonna</b> | <b>Gente de Zona</b> | <b>Bonobo</b> | <b>Chase & Status</b> | <b>Kanye West</b>  |
 
 
 ## My top artists this year
