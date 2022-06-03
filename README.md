@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c148db83b3344934ad9da058dc8eb9b5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f54a732adbd0888c4cfec411fa4327c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4c5cc447ae5976aa80b9eefbb2f5fe10.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/baee601c7b39478c8e1be29e77455611.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f0d6bb1b3ca626415cd4397b8caaf412.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/169b8318fddd7a545540c860c0eefd29.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c148db83b3344934ad9da058dc8eb9b5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f54a732adbd0888c4cfec411fa4327c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/baee601c7b39478c8e1be29e77455611.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4c5cc447ae5976aa80b9eefbb2f5fe10.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f0d6bb1b3ca626415cd4397b8caaf412.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/169b8318fddd7a545540c860c0eefd29.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Los Cuates de Sinaloa</b> | <b>Madonna</b> | <b>Gente de Zona</b> | <b>Chase & Status</b> | <b>Bonobo</b> | <b>Central Cee</b>  |
+| <b>Los Cuates de Sinaloa</b> | <b>Madonna</b> | <b>Chase & Status</b> | <b>Gente de Zona</b> | <b>Bonobo</b> | <b>Central Cee</b>  |
 
 
 ## My top artists this year
