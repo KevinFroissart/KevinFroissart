@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1e470aa2e2a9469ac6b30b5767a929d9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abc29b9e8229daba1a08df75cacb6d60.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aba9045a2cb3077e25219417fd3d1608.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/985b46cf23f9eeafef35cbbbab829456.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bdec7778900e17a5025f11ef9954b5c6.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2ad776053cc4861fb26ab03745ae4b22.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7964a3ab96c749f8acf4b7c8e92d3de0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2561ce40989654da0cba56695506289.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a1abb0e278fcd5078ee24c915c4f6dc2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/194c8ed2e86372026d6c45eae0446326.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Salut C'est Cool</b> | <b>Meel B</b> | <b>Gazo</b> | <b>La Fève</b> | <b>Leka</b> | <b>Trampsta</b>  |
+| <b>Meel B</b> | <b>IC3PEAK</b> | <b>STO</b> | <b>DVRST</b> | <b>Rozzy</b> | <b>SahBabii</b>  |
 
 
 ## My top artists this year
