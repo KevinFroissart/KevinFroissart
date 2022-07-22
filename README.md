@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2ad776053cc4861fb26ab03745ae4b22.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7964a3ab96c749f8acf4b7c8e92d3de0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2561ce40989654da0cba56695506289.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a1abb0e278fcd5078ee24c915c4f6dc2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/194c8ed2e86372026d6c45eae0446326.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2ad776053cc4861fb26ab03745ae4b22.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7964a3ab96c749f8acf4b7c8e92d3de0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4c03102728fb26e091f1ab2de21de682.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Meel B</b> | <b>IC3PEAK</b> | <b>STO</b> | <b>DVRST</b> | <b>Rozzy</b> | <b>SahBabii</b>  |
+| <b>Abr.</b> | <b>IC3PEAK</b> | <b>Floerk</b> | <b>STO</b> | <b>Funk Tribu</b> | <b>zoomy</b>  |
 
 
 ## My top artists this year
