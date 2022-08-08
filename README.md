@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ee96955e1bb34a83e1b4f85cf85d8b1d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e5c115394a04622acc0851001bb672a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/68663ac53b0d72ccc61d21cbcb6264cf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f430981ce42c4172b2474e6db6fc19f6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/db735a2aa9b0fa5b539af6352925f0b2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e5c115394a04622acc0851001bb672a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b7a629c31f11bc490aaeaa0e26eb0c4f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ee96955e1bb34a83e1b4f85cf85d8b1d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f430981ce42c4172b2474e6db6fc19f6.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Ultra vomit</b> | <b>Rammstein</b> | <b>Noir Désir</b> | <b>Machine Head</b> | <b>TyFontaine</b> | <b>TALI G17</b>  |
+| <b>Ultra vomit</b> | <b>That Kid</b> | <b>Noir Désir</b> | <b>YoungBoy Never Broke Again</b> | <b>Rammstein</b> | <b>TyFontaine</b>  |
 
 
 ## My top artists this year
