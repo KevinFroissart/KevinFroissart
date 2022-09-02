@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/536c1315fa72d05376eee33288b6ee88.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/93a44ff075ceff8dc316aaf8d8dd6a8c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/db735a2aa9b0fa5b539af6352925f0b2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4e8c0ec6332c21b4189c095795f4a810.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e00872372a8b9a6e5d6fd3afe3f33b27.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e09fd58e21be4e0c6eb114790a38aaef.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/db735a2aa9b0fa5b539af6352925f0b2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/536c1315fa72d05376eee33288b6ee88.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4e8c0ec6332c21b4189c095795f4a810.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/93a44ff075ceff8dc316aaf8d8dd6a8c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e00872372a8b9a6e5d6fd3afe3f33b27.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>TAAHLIAH</b> | <b>MC Mazzie</b> | <b>That Kid</b> | <b>Bring Me the Horizon</b> | <b>Caster</b> | <b>Russ Millions</b>  |
+| <b>That Kid</b> | <b>TAAHLIAH</b> | <b>Bring Me the Horizon</b> | <b>MC Mazzie</b> | <b>Caster</b> | <b>Ultra vomit</b>  |
 
 
 ## My top artists this year
