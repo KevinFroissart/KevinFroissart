@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4e8c0ec6332c21b4189c095795f4a810.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/93a44ff075ceff8dc316aaf8d8dd6a8c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/536c1315fa72d05376eee33288b6ee88.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/db735a2aa9b0fa5b539af6352925f0b2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e00872372a8b9a6e5d6fd3afe3f33b27.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4e8c0ec6332c21b4189c095795f4a810.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/536c1315fa72d05376eee33288b6ee88.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/93a44ff075ceff8dc316aaf8d8dd6a8c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a63d5052ccf19989f99a90f27665e3e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e00872372a8b9a6e5d6fd3afe3f33b27.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Daniel K Universe</b> | <b>Bring Me the Horizon</b> | <b>MC Mazzie</b> | <b>TAAHLIAH</b> | <b>That Kid</b> | <b>Caster</b>  |
+| <b>Daniel K Universe</b> | <b>Bring Me the Horizon</b> | <b>TAAHLIAH</b> | <b>MC Mazzie</b> | <b>Rammstein</b> | <b>Caster</b>  |
 
 
 ## My top artists this year
