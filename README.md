@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/48a68da4c4f3462f64c3ccef9da1eda3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff4cb95724228940f569803bbdee1366.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a63d5052ccf19989f99a90f27665e3e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff4cb95724228940f569803bbdee1366.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/48a68da4c4f3462f64c3ccef9da1eda3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a63d5052ccf19989f99a90f27665e3e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Stupeflip</b> | <b>Aurora</b> | <b>Eliza Rose</b> | <b>Rammstein</b> | <b>Daniel K Universe</b> | <b>Ultra vomit</b>  |
+| <b>Stupeflip</b> | <b>Eliza Rose</b> | <b>Aurora</b> | <b>Rammstein</b> | <b>Ultra vomit</b> | <b>Daniel K Universe</b>  |
 
 
 ## My top artists this year
