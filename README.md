@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1b54baa5bc6b3275ac3085d7e479b720.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bb02242e4910392f888a5f828f790bfe.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1514b21359d5930e2dc42bbb1040bb65.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8333426106111be41e0f72e828a15a86.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d0c87dc688dfd3d59b379e159971a08b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1514b21359d5930e2dc42bbb1040bb65.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/62e61f15ba0b6746f7e9a314de145e28.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/699778fbfbdcb91b6452b597a08f9da5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/082c3a2c7dff1aa6776e99d98fa50acb.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Damn Whøre</b> | <b>Stupeflip</b> | <b>Destroy Lonely</b> | <b>Guapdad 4000</b> | <b>SOFT BLADE</b> | <b>Hven</b>  |
+| <b>Damn Whøre</b> | <b>TAKTSTÖRER</b> | <b>SOFT BLADE</b> | <b>Oliver Tree</b> | <b>Bad Smith</b> | <b>LongLost</b>  |
 
 
 ## My top artists this year
