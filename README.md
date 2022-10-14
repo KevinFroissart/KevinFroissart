@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7f26552d21334c03ccdaa861f64b6210.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/62e61f15ba0b6746f7e9a314de145e28.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/082c3a2c7dff1aa6776e99d98fa50acb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d0c87dc688dfd3d59b379e159971a08b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/699778fbfbdcb91b6452b597a08f9da5.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dfdcfb0e3aaf473689ae347ba4dff66e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc2d81acd73c2d319f3280f0954a64d5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a89bfd1527680ea44252fa9bb70fd4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb46dbc29a547518a428cd9c228b76e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Damn Whøre</b> | <b>Mandidextrous</b> | <b>Oliver Tree</b> | <b>LongLost</b> | <b>TAKTSTÖRER</b> | <b>Bad Smith</b>  |
+| <b>Damn Whøre</b> | <b>Kalwi & Remi</b> | <b>Tobias Dray</b> | <b>Piri</b> | <b>Punktmidi</b> | <b>Billx</b>  |
 
 
 ## My top artists this year
