@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dfdcfb0e3aaf473689ae347ba4dff66e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a89bfd1527680ea44252fa9bb70fd4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc2d81acd73c2d319f3280f0954a64d5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/53b92d9f8d14964c02cffbdabfc91173.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dfdcfb0e3aaf473689ae347ba4dff66e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a89bfd1527680ea44252fa9bb70fd4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc2d81acd73c2d319f3280f0954a64d5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a86c433892104feabf45d8d9d20cbc6c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Kalwi & Remi</b> | <b>Damn Whøre</b> | <b>Piri</b> | <b>Tobias Dray</b> | <b>Punktmidi</b> | <b>Le Wanski</b>  |
+| <b>Kalwi & Remi</b> | <b>Piri</b> | <b>Tobias Dray</b> | <b>Punktmidi</b> | <b>Sexy Sushi</b> | <b>Damn Whøre</b>  |
 
 
 ## My top artists this year
