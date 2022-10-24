@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dfdcfb0e3aaf473689ae347ba4dff66e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a61b87d9a51bb962a11cfea5065db85.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87efeecf2b1a4113568df42a5082a731.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a89bfd1527680ea44252fa9bb70fd4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc2d81acd73c2d319f3280f0954a64d5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a61b87d9a51bb962a11cfea5065db85.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87efeecf2b1a4113568df42a5082a731.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ad444056b7191eb7b774b40218318d2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dfdcfb0e3aaf473689ae347ba4dff66e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/03aa3bfe78a86492043b5f06a83d9810.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Kalwi & Remi</b> | <b>ayegy</b> | <b>IC3PEAK</b> | <b>Piri</b> | <b>Tobias Dray</b> | <b>Damn Whøre</b>  |
+| <b>ayegy</b> | <b>IC3PEAK</b> | <b>Vapurr</b> | <b>RXLZQ</b> | <b>Kalwi & Remi</b> | <b>8ruki</b>  |
 
 
 ## My top artists this year
