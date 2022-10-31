@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bbc25336adb24ede9d5a495e09218d02.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a61b87d9a51bb962a11cfea5065db85.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ad444056b7191eb7b774b40218318d2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e416a61eaed3b6725b7291241e4f6bdb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/36b2808dc47c23ad4c52b3f4926f2050.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bbc25336adb24ede9d5a495e09218d02.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e416a61eaed3b6725b7291241e4f6bdb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/28aa7bd6ea9256dd89d7e57daee2ffbb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/36b2808dc47c23ad4c52b3f4926f2050.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ad444056b7191eb7b774b40218318d2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a61b87d9a51bb962a11cfea5065db85.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Bu$hi</b> | <b>ayegy</b> | <b>RXLZQ</b> | <b>Vapurr</b> | <b>H</b> | <b>Bricksy & 3g</b>  |
+| <b>Bu$hi</b> | <b>H</b> | <b>JMK$</b> | <b>Bricksy & 3g</b> | <b>RXLZQ</b> | <b>ayegy</b>  |
 
 
 ## My top artists this year
