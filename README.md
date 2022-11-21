@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0db6402579d4bf2bc774c808ba788a5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f08caa00e7bc82a68693d7399c06270c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3e8fc8b9e0594c3bbc0953df34953701.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7c07cfe5562bf17f52abfac94ea4ae99.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3b6382489cc63c3629a707e049cda2d1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f64e036233a5c021db55d3a00ac5298c.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0db6402579d4bf2bc774c808ba788a5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3e8fc8b9e0594c3bbc0953df34953701.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3b6382489cc63c3629a707e049cda2d1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e96e264d9e14bc87f34524d2d8b130bc.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dd690a5cc3ce5d909f91a733c34126e2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f36687244f83e6b8716d4b5a42002c89.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Enei</b> | <b>Isabel LaRosa</b> | <b>DJ Fresh</b> | <b>Oliver Tree</b> | <b>Sub Focus</b> | <b>XXKATUSJINSUX</b>  |
+| <b>Enei</b> | <b>DJ Fresh</b> | <b>Sub Focus</b> | <b>jomarijan</b> | <b>Jul</b> | <b>menace Santana</b>  |
 
 
 ## My top artists this year
