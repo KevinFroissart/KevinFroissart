@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6f5f8fc20a53e4f0c911f2de413cf81c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd9d3a550a0b48d26deacde3a954f986.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/19b0b1189e643ebd88b725e9d323adba.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b90afc7d9531e58eff038fdde0c9fe74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a682c9b8a2df59ce5ba4d638bdf7a197.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b90afc7d9531e58eff038fdde0c9fe74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6f5f8fc20a53e4f0c911f2de413cf81c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd9d3a550a0b48d26deacde3a954f986.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/022ed91d928f2c4f590a84d51479c717.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>snorunt</b> | <b>21 Savage</b> | <b>Metro Boomin</b> | <b>Offset</b> | <b>1863</b> | <b>disco lines</b>  |
+| <b>snorunt</b> | <b>1863</b> | <b>Eternally</b> | <b>21 Savage</b> | <b>Metro Boomin</b> | <b>Jvla</b>  |
 
 
 ## My top artists this year
