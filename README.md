@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b90afc7d9531e58eff038fdde0c9fe74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6f5f8fc20a53e4f0c911f2de413cf81c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd9d3a550a0b48d26deacde3a954f986.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/022ed91d928f2c4f590a84d51479c717.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b90afc7d9531e58eff038fdde0c9fe74.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9c73eed3174942d556039b1eb09d1abf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c1278685579b4101c12cc918b92a1177.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>snorunt</b> | <b>1863</b> | <b>Eternally</b> | <b>21 Savage</b> | <b>Metro Boomin</b> | <b>Jvla</b>  |
+| <b>snorunt</b> | <b>Real O</b> | <b>Eternally</b> | <b>1863</b> | <b>Ieuan</b> | <b>drip-133</b>  |
 
 
 ## My top artists this year
