@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9c73eed3174942d556039b1eb09d1abf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2833a760bff01a78f3439531a57a27d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c1278685579b4101c12cc918b92a1177.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9d87ad40bfc94f9fbdc13dab2919dd73.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bdbdc9cfac4d40cf9551fa67fcf56403.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Real O</b> | <b>snorunt</b> | <b>Ieuan</b> | <b>winnterzuko</b> | <b>drip-133</b> | <b>Eliot Richomme Productions</b>  |
+| <b>Real O</b> | <b>snorunt</b> | <b>C3N6</b> | <b>Couli B</b> | <b>FELLA</b> | <b>Scooter</b>  |
 
 
 ## My top artists this year
