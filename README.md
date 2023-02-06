@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1d95006e4038eb0afc3aba4b0268fd2d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0d469afb957590e0129341d8fc16e9de.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a1bafa4293652c7ff5964410ebf2d660.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abc6afe8f0c6004a30d1b2463b654687.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/91590377a32b750e2ff7d10e81f23e52.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abdae440c8e31a15d4936c73e4d0ea23.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abc6afe8f0c6004a30d1b2463b654687.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a1bafa4293652c7ff5964410ebf2d660.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0d469afb957590e0129341d8fc16e9de.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/18480e3f54d0dbd7028a6db1cf9e9acd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/25c9443b962a1688d16e2d569ff26d3b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>La Femme</b> | <b>Menacelations</b> | <b>DK</b> | <b>The Act</b> | <b>Ascendant Vierge</b> | <b>Indecorum</b>  |
+| <b>The Act</b> | <b>DK</b> | <b>Menacelations</b> | <b>Exodia</b> | <b>Theodora</b> | <b>Sadandsolo</b>  |
 
 
 ## My top artists this year
