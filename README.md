@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/18480e3f54d0dbd7028a6db1cf9e9acd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e5979120d5f2420bb7861744cc717997.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a1bafa4293652c7ff5964410ebf2d660.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f0778baa73efa3c31e19f4c602bf0bdd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abc6afe8f0c6004a30d1b2463b654687.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e5979120d5f2420bb7861744cc717997.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f0778baa73efa3c31e19f4c602bf0bdd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/18480e3f54d0dbd7028a6db1cf9e9acd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/91590377a32b750e2ff7d10e81f23e52.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a1bafa4293652c7ff5964410ebf2d660.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Sadandsolo</b> | <b>Exodia</b> | <b>Ted Leo and the Pharmacists</b> | <b>DK</b> | <b>dRes</b> | <b>The Act</b>  |
+| <b>Ted Leo and the Pharmacists</b> | <b>dRes</b> | <b>Exodia</b> | <b>Sadandsolo</b> | <b>Ascendant Vierge</b> | <b>DK</b>  |
 
 
 ## My top artists this year
