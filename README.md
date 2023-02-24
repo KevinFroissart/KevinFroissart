@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3aa7942637ea2c88687d49e7736ae978.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4a9e95e6949e76b37b2a3d6e2ae288bb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3356ac6518e6347311dedc02279d48b8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/295cdd35424ee9413b2becb9b6db6143.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f0778baa73efa3c31e19f4c602bf0bdd.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4a9e95e6949e76b37b2a3d6e2ae288bb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3aa7942637ea2c88687d49e7736ae978.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73f9ae84ada86f76e930bed322b3806e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2ade6c1b0b6e29ed234581dd80d3ce83.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/44e7ed13dde0c0635a17fc73212dcb0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mathilde Fernandez</b> | <b>Baltra</b> | <b>Raul Apxpei</b> | <b>Mr. Oizo</b> | <b>Locked Club</b> | <b>dRes</b>  |
+| <b>Baltra</b> | <b>Mathilde Fernandez</b> | <b>Лилая</b> | <b>FasoTek</b> | <b>Evil Grimace</b> | <b>Raul Apxpei</b>  |
 
 
 ## My top artists this year
