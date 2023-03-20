@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4a9e95e6949e76b37b2a3d6e2ae288bb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3aa7942637ea2c88687d49e7736ae978.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73f9ae84ada86f76e930bed322b3806e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2ade6c1b0b6e29ed234581dd80d3ce83.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/44e7ed13dde0c0635a17fc73212dcb0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/771e6523e9231a873322b414ca1e3479.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff5be7866aa95ed9ddc9b10c3902ea9e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/865dc988ea82f9ba8bf5d00cd5fd636e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8559dc3c6bf5d2ed629c61d6c7ffef8a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Baltra</b> | <b>Mathilde Fernandez</b> | <b>Лилая</b> | <b>FasoTek</b> | <b>Evil Grimace</b> | <b>Raul Apxpei</b>  |
+| <b>Nation</b> | <b>The Lonely Tree</b> | <b>Youri</b> | <b>expiry date</b> | <b>AM/WAS</b> | <b>mietze conte</b>  |
 
 
 ## My top artists this year
