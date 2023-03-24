@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/771e6523e9231a873322b414ca1e3479.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff5be7866aa95ed9ddc9b10c3902ea9e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/865dc988ea82f9ba8bf5d00cd5fd636e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8559dc3c6bf5d2ed629c61d6c7ffef8a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/50e0f0594af51af971ba0eddcd6e078e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff1ed7dca485027619f8028433d8d184.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2e5a2037cf2e4f06a0af3531f27dd23a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ab7e2cb5e4f0b36038a63e4da14e1a9f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff5be7866aa95ed9ddc9b10c3902ea9e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Nation</b> | <b>The Lonely Tree</b> | <b>Youri</b> | <b>expiry date</b> | <b>AM/WAS</b> | <b>mietze conte</b>  |
+| <b>ID</b> | <b>Luni Sacks</b> | <b>Billy Gillies</b> | <b>Jaëss</b> | <b>youngexe</b> | <b>Youri</b>  |
 
 
 ## My top artists this year
