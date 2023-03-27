@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/50e0f0594af51af971ba0eddcd6e078e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff1ed7dca485027619f8028433d8d184.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2e5a2037cf2e4f06a0af3531f27dd23a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ab7e2cb5e4f0b36038a63e4da14e1a9f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff5be7866aa95ed9ddc9b10c3902ea9e.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/50e0f0594af51af971ba0eddcd6e078e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff1ed7dca485027619f8028433d8d184.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2e5a2037cf2e4f06a0af3531f27dd23a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f81fa2693d20e5b41760bd3fd0e0ab7d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ab7e2cb5e4f0b36038a63e4da14e1a9f.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>ID</b> | <b>Luni Sacks</b> | <b>Billy Gillies</b> | <b>Jaëss</b> | <b>youngexe</b> | <b>Youri</b>  |
+| <b>ID</b> | <b>Luni Sacks</b> | <b>Billy Gillies</b> | <b>youngexe</b> | <b>Housewife 9</b> | <b>Jaëss</b>  |
 
 
 ## My top artists this year
