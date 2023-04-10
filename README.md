@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5df2d196783549eca5a002ba4563782c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f42a3df985ca2ccded1654c92961b49a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/915d2abef7f820d117b534bd9d78991f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d5cdd266dd32fc4850b32d13630f5ea9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/84a1eed4fa93f12ef25c6f36c27dd6f0.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f42a3df985ca2ccded1654c92961b49a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/915d2abef7f820d117b534bd9d78991f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d5cdd266dd32fc4850b32d13630f5ea9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b11375db3507d76f0da4d33cd5997aa3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/165eb51bb7142c3926924cf040103a9d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>RekuudoTekk</b> | <b>Ralphie Choo</b> | <b>2LADE</b> | <b>Asenssia</b> | <b>plenka</b> | <b>KruddTheGuru</b>  |
+| <b>RekuudoTekk</b> | <b>2LADE</b> | <b>Asenssia</b> | <b>plenka</b> | <b>Hensonn</b> | <b>Mareux</b>  |
 
 
 ## My top artists this year
