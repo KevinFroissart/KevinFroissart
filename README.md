@@ -16,9 +16,9 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f42a3df985ca2ccded1654c92961b49a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/915d2abef7f820d117b534bd9d78991f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d5cdd266dd32fc4850b32d13630f5ea9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b11375db3507d76f0da4d33cd5997aa3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/165eb51bb7142c3926924cf040103a9d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/58300f8d2ce596a4fd2ad962b234f47a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e17f4affd5fecf5e30e489465f8b376b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a85e9b3b811279689a2e15bef3630649.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a381c3246d7dd26666047ec92e0f3983.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>RekuudoTekk</b> | <b>2LADE</b> | <b>Asenssia</b> | <b>plenka</b> | <b>Hensonn</b> | <b>Mareux</b>  |
+| <b>KAS:ST</b> | <b>Das Beat</b> | <b>Kaettykatz</b> | <b>Crapjony</b> | <b>Muchohaze</b> | <b>Sega Bodega</b>  |
 
 
 ## My top artists this year
