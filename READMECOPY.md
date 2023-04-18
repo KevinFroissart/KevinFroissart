@@ -1,6 +1,6 @@
 ## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I'm Kévin, a 22 years old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Master's Degree.
+Hi! I'm Kévin, a 23 years old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Master's Degree.
 I am trying to get my hand on diverse technologies to gather as much knowledge as I can whilst entering the professional world.
 
 [//]: # (<p align="center">)
@@ -90,8 +90,8 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 ## My GitHub Stats &#x1f4c8;
 
 <p align="center">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=KevinFroissart&theme=blue-green&count_private=true"><br>
-  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFroissart&theme=blue-green&count_private=true">
+  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinFroissart&theme=blue-green&count_private=true"><br>
+  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinFroissart&theme=blue-green&count_private=true">
 
     
 ![](https://img.shields.io/badge/Made%20with-Python%20and%20Markdown-1f425f.svg)    
