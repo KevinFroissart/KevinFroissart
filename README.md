@@ -1,6 +1,6 @@
 ## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I'm Kévin, a 22 years old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Master's Degree.
+Hi! I'm Kévin, a 23 years old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Master's Degree.
 I am trying to get my hand on diverse technologies to gather as much knowledge as I can whilst entering the professional world.
 
 [//]: # (<p align="center">)
@@ -16,13 +16,13 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/58300f8d2ce596a4fd2ad962b234f47a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e17f4affd5fecf5e30e489465f8b376b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a85e9b3b811279689a2e15bef3630649.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a381c3246d7dd26666047ec92e0f3983.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e17f4affd5fecf5e30e489465f8b376b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/58300f8d2ce596a4fd2ad962b234f47a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a85e9b3b811279689a2e15bef3630649.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a381c3246d7dd26666047ec92e0f3983.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>KAS:ST</b> | <b>Das Beat</b> | <b>Kaettykatz</b> | <b>Crapjony</b> | <b>Muchohaze</b> | <b>Sega Bodega</b>  |
+| <b>Das Beat</b> | <b>Kaettykatz</b> | <b>KAS:ST</b> | <b>Crapjony</b> | <b>Muchohaze</b> | <b>Sega Bodega</b>  |
 
 
 ## My top artists this year
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc6057fd1b43aafd091a3a78ecd4462b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e052252098c0a60300212c1a266e29e6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/94a072681f7c9e9f3cfb4ba88e944c4c.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc6057fd1b43aafd091a3a78ecd4462b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3722349b7303ba77be6cc007539e43a7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/433db264c67ffcc33881a5919139d1a7.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>That Kid</b> | <b>Ultra vomit</b> | <b>Stupeflip</b> | <b>snorunt</b> | <b>Damn Whøre</b> | <b>Madonna</b>  |
 
@@ -100,8 +100,8 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 ## My GitHub Stats &#x1f4c8;
 
 <p align="center">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=KevinFroissart&theme=blue-green&count_private=true"><br>
-  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFroissart&theme=blue-green&count_private=true">
+  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinFroissart&theme=blue-green&count_private=true"><br>
+  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinFroissart&theme=blue-green&count_private=true">
 
     
 ![](https://img.shields.io/badge/Made%20with-Python%20and%20Markdown-1f425f.svg)    
