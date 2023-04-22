@@ -1,7 +1,6 @@
 ## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I'm Kévin, a 23 years old student and compter enthusiast. I am currently studying at the University of Lyon with the goal of achieving my Master's Degree.
-I am trying to get my hand on diverse technologies to gather as much knowledge as I can whilst entering the professional world.
+Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and student based in Lyon. I'm deeply committed to expanding my understanding of various technologies, and I'm currently pursuing a Master's Degree at the University of Lyon. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
 
 [//]: # (<p align="center">)
 [//]: # (  <br><img src="https://badges.pufler.dev/visits/KevinFroissart/KevinFroissart"><br>)
