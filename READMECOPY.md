@@ -2,12 +2,7 @@
 
 Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and student based in Lyon. I'm deeply committed to expanding my understanding of various technologies, and I'm currently pursuing a Master's Degree at the University of Lyon. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
 
-[//]: # (<p align="center">)
-[//]: # (  <br><img src="https://badges.pufler.dev/visits/KevinFroissart/KevinFroissart"><br>)
-[//]: # (  <b>I Have<br><img src="https://badges.pufler.dev/repos/KevinFroissart">)
-[//]: # (  <br>Been Here For</b><br><img src="https://badges.pufler.dev/years/KevinFroissart"></p>)
-
-Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want to know how this README was made.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KevinFroissart" alt="KevinFroissart" /></a> </p>
 
 ## Find Me Elsewhere :computer:
 
@@ -88,11 +83,18 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 ## My GitHub Stats &#x1f4c8;
 
-<p align="center">
-  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinFroissart&theme=blue-green&count_private=true"><br>
-  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinFroissart&theme=blue-green&count_private=true">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinFroissart&show_icons=true&locale=en&layout=compact" alt="KevinFroissart" />
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinFroissart&show_icons=true&locale=en" alt="KevinFroissart" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFroissart&" alt="KevinFroissart" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
     
 ![](https://img.shields.io/badge/Made%20with-Python%20and%20Markdown-1f425f.svg)    
 
-[Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+[//]: [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
