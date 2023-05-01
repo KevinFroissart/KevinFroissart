@@ -2,12 +2,7 @@
 
 Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and student based in Lyon. I'm deeply committed to expanding my understanding of various technologies, and I'm currently pursuing a Master's Degree at the University of Lyon. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
 
-[//]: # (<p align="center">)
-[//]: # (  <br><img src="https://badges.pufler.dev/visits/KevinFroissart/KevinFroissart"><br>)
-[//]: # (  <b>I Have<br><img src="https://badges.pufler.dev/repos/KevinFroissart">)
-[//]: # (  <br>Been Here For</b><br><img src="https://badges.pufler.dev/years/KevinFroissart"></p>)
-
-Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want to know how this README was made.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KevinFroissart" alt="KevinFroissart" /></a> </p>
 
 ## Find Me Elsewhere :computer:
 
@@ -15,13 +10,13 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a053cf7e6fd9ffa573189ddb3ff48064.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/eb74c78ed45fab4e7c4022de9fccd2e8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a053cf7e6fd9ffa573189ddb3ff48064.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/eb74c78ed45fab4e7c4022de9fccd2e8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/104e765f4a05ec80e340755a026ab4da.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/69f96de48f581f2dd5bb6527b85f064a.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Ikkimel</b> | <b>Gray Contrast</b> | <b>yunè pinku</b> | <b>travyp</b> | <b>VV Pete</b> | <b>Butschi</b>  |
+| <b>Ikkimel</b> | <b>Gray Contrast</b> | <b>yunè pinku</b> | <b>VV Pete</b> | <b>Crystal Castles</b> | <b>Salò</b>  |
 
 
 ## My top artists this year
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc6057fd1b43aafd091a3a78ecd4462b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3722349b7303ba77be6cc007539e43a7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/94a072681f7c9e9f3cfb4ba88e944c4c.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc6057fd1b43aafd091a3a78ecd4462b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6158a0f03eb34cf9bb622451b7f204aa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1761cbbaf7a548d3a3faff8e005e02c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3722349b7303ba77be6cc007539e43a7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5fbcf9f0b1ae04aa496daba8005c67d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/433db264c67ffcc33881a5919139d1a7.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>That Kid</b> | <b>Ultra vomit</b> | <b>Stupeflip</b> | <b>snorunt</b> | <b>Damn Whøre</b> | <b>Madonna</b>  |
 
@@ -98,11 +93,18 @@ Visit [this page](https://github.com/KevinFroissart/KevinFroissart) if you want 
 
 ## My GitHub Stats &#x1f4c8;
 
-<p align="center">
-  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinFroissart&theme=blue-green&count_private=true"><br>
-  <br><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinFroissart&theme=blue-green&count_private=true">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinFroissart&show_icons=true&locale=en&layout=compact" alt="KevinFroissart" />
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinFroissart&show_icons=true&locale=en" alt="KevinFroissart" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFroissart&" alt="KevinFroissart" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
     
 ![](https://img.shields.io/badge/Made%20with-Python%20and%20Markdown-1f425f.svg)    
 
-[Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+[//]: [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
