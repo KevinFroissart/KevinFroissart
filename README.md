@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/104e765f4a05ec80e340755a026ab4da.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1d95006e4038eb0afc3aba4b0268fd2d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/42440199bdc98103510b97f4ef59655a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5f3675689e71d49bbae020d8aaf5fde3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2a1c1ca1e9dec27680234945b1eb750.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d1a91ebeccd607636b0ee26fcc93e762.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/104e765f4a05ec80e340755a026ab4da.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/42440199bdc98103510b97f4ef59655a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2a1c1ca1e9dec27680234945b1eb750.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5f3675689e71d49bbae020d8aaf5fde3.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Ikkimel</b> | <b>Crystal Castles</b> | <b>La Femme</b> | <b>poproboval</b> | <b>Swordes</b> | <b>3LNA</b>  |
+| <b>Destroy Lonely</b> | <b>Ikkimel</b> | <b>Crystal Castles</b> | <b>poproboval</b> | <b>3LNA</b> | <b>Swordes</b>  |
 
 
 ## My top artists this year
