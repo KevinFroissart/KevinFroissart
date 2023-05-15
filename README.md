@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d1a91ebeccd607636b0ee26fcc93e762.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/72d2c9d86571c77ecaac96f59ce56932.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/15c41735b01daf9f3d5c7d1713517252.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/44a7282c79af76f4ad202a702168933e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2a1c1ca1e9dec27680234945b1eb750.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b09d80f281f18feaff6b10d4ffaa7313.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/44a7282c79af76f4ad202a702168933e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e411a49b6e467138d48848d7d4814d5d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5a6615a39e06eef9e18fb3d5da76c2f4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/15c41735b01daf9f3d5c7d1713517252.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Destroy Lonely</b> | <b>Ikkimel</b> | <b>Gusted</b> | <b>Fine-Sir-1584660650</b> | <b>Sam Girling</b> | <b>3LNA</b>  |
+| <b>eargasm god</b> | <b>Sam Girling</b> | <b>Cristobal Pesce</b> | <b>VSN7</b> | <b>Fine-Sir-1584660650</b> | <b>Ikkimel</b>  |
 
 
 ## My top artists this year
