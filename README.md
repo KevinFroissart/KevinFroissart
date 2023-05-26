@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/007ecf0c3dd1dff51e56f679c9d0af66.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e847f2b6cac5da5973d591b25850072d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/63bd5c74f94bb5b66d457e252c338263.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cab67fadf6c7c7535d770fea92e95ea4.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cab67fadf6c7c7535d770fea92e95ea4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3722349b7303ba77be6cc007539e43a7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acfaae24049baac1f8377c8a5e5f7214.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Baby B3ns</b> | <b>DM 90</b> | <b>meat computer</b> | <b>forreally</b> | <b>kumo 99</b> | <b>Waterbaby</b>  |
+| <b>Waterbaby</b> | <b>snorunt</b> | <b>DM 90</b> | <b>Ikkimel</b> | <b>Cody Wong</b> | <b>Kalash Criminel</b>  |
 
 
 ## My top artists this year
