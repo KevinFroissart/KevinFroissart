@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cab67fadf6c7c7535d770fea92e95ea4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3722349b7303ba77be6cc007539e43a7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8ab4a264147d31846b8a89446f060a7a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e847f2b6cac5da5973d591b25850072d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/24e4611e63754f83d336e05305df985b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/539723b6c1211596e0eb89c713cecd1b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf1737ad5a37dacb12eb95ae1f15cb9a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5a132e6732b14e72d2402deb14b28466.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Waterbaby</b> | <b>snorunt</b> | <b>Cody Wong</b> | <b>DM 90</b> | <b>Sega Bodega</b> | <b>meat computer</b>  |
+| <b>Mason</b> | <b>TXX</b> | <b>Bbygirl</b> | <b>Eartheater</b> | <b>fam0uz</b> | <b>nbsplv</b>  |
 
 
 ## My top artists this year
