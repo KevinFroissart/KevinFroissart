@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/24e4611e63754f83d336e05305df985b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf1737ad5a37dacb12eb95ae1f15cb9a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5a132e6732b14e72d2402deb14b28466.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/539723b6c1211596e0eb89c713cecd1b.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dad1dbdc55c1ebcac88bf32d7e0dcc7d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/921aa3c5be73557d86627bde93fc6084.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bca0b0bfc28b869acc37987a61c3344.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/92f1a504923635aae29caeffe7a640e2.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mason</b> | <b>TXX</b> | <b>Bbygirl</b> | <b>fam0uz</b> | <b>nbsplv</b> | <b>Eartheater</b>  |
+| <b>MCR-T</b> | <b>TXX</b> | <b>Aexhy</b> | <b>Rosie Charles</b> | <b>vowl.</b> | <b>Factor Xs</b>  |
 
 
 ## My top artists this year
