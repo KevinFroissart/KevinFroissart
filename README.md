@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/25fc68e5b14ae9e2ad44a2fcbbc381cf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1e90486815587ba3826d95a9f8f0429e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e089e5d6c4ebb0c23f5bfe1c028c714d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c6246d14777fffe12d8e80da7ef3ac4f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2a392769d47c732ecf49edbd73da3a16.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dad1dbdc55c1ebcac88bf32d7e0dcc7d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/25fc68e5b14ae9e2ad44a2fcbbc381cf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1e90486815587ba3826d95a9f8f0429e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1c2bd96837cc00d23311ecbc0f3fd7b2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c6246d14777fffe12d8e80da7ef3ac4f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0946efecf195d407e49a34a6722121b3.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>UNiiQU3</b> | <b>Conducta</b> | <b>Chippy Nonstop</b> | <b>Aukina</b> | <b>Kirk</b> | <b>MCR-T</b>  |
+| <b>UNiiQU3</b> | <b>Conducta</b> | <b>DM 90</b> | <b>hxly xo</b> | <b>Aukina</b> | <b>SAGEISKAMI</b>  |
 
 
 ## My top artists this year
