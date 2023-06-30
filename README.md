@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1c2bd96837cc00d23311ecbc0f3fd7b2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/25fc68e5b14ae9e2ad44a2fcbbc381cf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bea6e3e8f7eaaf59bce8db63acc70ff6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb46dbc29a547518a428cd9c228b76e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ba7c6525073b4bffcb392579ce356567.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb46dbc29a547518a428cd9c228b76e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ba7c6525073b4bffcb392579ce356567.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/32423ddc69f0291df2da18f32af045a9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dad1dbdc55c1ebcac88bf32d7e0dcc7d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>DM 90</b> | <b>hxly xo</b> | <b>UNiiQU3</b> | <b>Neop0p</b> | <b>Billx</b> | <b>fant4stik</b>  |
+| <b>Billx</b> | <b>fant4stik</b> | <b>Mandragora</b> | <b>Martin Bravi</b> | <b>Project 98</b> | <b>MCR-T</b>  |
 
 
 ## My top artists this year
