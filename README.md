@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7d4d842fbcc1e996fe6003439c6387c1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/de6a021736ba9d8f72513266411e8f35.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a16bdd761763c0bce649fc303f86ec02.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/22d02b8ecd5548f78835bceca968116a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/760f8cee36f908d312f63aa4c58f8cc0.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/de6a021736ba9d8f72513266411e8f35.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73a95d3b34192d0936d3b4135429527f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ede63e38a3d601d15868919f801680e2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1fea7653219c73417cb11e2f95fe1a51.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Diegö</b> | <b>Joey Risdon</b> | <b>EV</b> | <b>JUICY SELEKTA</b> | <b>Mamba</b> | <b>PURPLE POSSE</b>  |
+| <b>Joey Risdon</b> | <b>JUICY SELEKTA</b> | <b>Venjent</b> | <b>2hollis</b> | <b>Adrian Mills</b> | <b>Ben Snow</b>  |
 
 
 ## My top artists this year
