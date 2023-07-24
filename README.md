@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/de6a021736ba9d8f72513266411e8f35.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73a95d3b34192d0936d3b4135429527f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ede63e38a3d601d15868919f801680e2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1fea7653219c73417cb11e2f95fe1a51.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/afa1bcd505fd11b34b59251eb9138fb6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f48563b5662bea93459e102db9d21b32.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c98c3efd31f64f94bbfd84bb9b39b037.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/311dccf2680d1e0e283291027af8ad1f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3785425b2f7d85a949c4c94bed68956d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Joey Risdon</b> | <b>JUICY SELEKTA</b> | <b>Venjent</b> | <b>2hollis</b> | <b>Adrian Mills</b> | <b>Ben Snow</b>  |
+| <b>1 800 PAIN</b> | <b>Abr.</b> | <b>DJ G2G</b> | <b>Louise Attaque</b> | <b>Bad Boombox</b> | <b>LucidBeatz</b>  |
 
 
 ## My top artists this year
