@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/afa1bcd505fd11b34b59251eb9138fb6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f48563b5662bea93459e102db9d21b32.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c98c3efd31f64f94bbfd84bb9b39b037.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/311dccf2680d1e0e283291027af8ad1f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3785425b2f7d85a949c4c94bed68956d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f48563b5662bea93459e102db9d21b32.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c98c3efd31f64f94bbfd84bb9b39b037.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/afa1bcd505fd11b34b59251eb9138fb6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/311dccf2680d1e0e283291027af8ad1f.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>1 800 PAIN</b> | <b>Abr.</b> | <b>DJ G2G</b> | <b>Louise Attaque</b> | <b>Bad Boombox</b> | <b>LucidBeatz</b>  |
+| <b>Abr.</b> | <b>DJ G2G</b> | <b>Louise Attaque</b> | <b>Lil Move</b> | <b>1 800 PAIN</b> | <b>Bad Boombox</b>  |
 
 
 ## My top artists this year
