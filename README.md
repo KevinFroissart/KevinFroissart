@@ -12,7 +12,7 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 ## Who I've been listening to this week
 | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/707b2eec4034901c4164b579b457d363.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/720e8ba5e2c5d525ddf6f0c5e276b548.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6baa010fda3828d3b1517274f424e1d7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/195cda352157115ac658ee4464a0e7fe.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/af168f4e0a676781d585b3f0a9391bf1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>abel31</b> | <b>DJ_Dave</b> | <b>No_4mat</b> | <b>Yeat</b> | <b>Yury</b> | <b>✧BRAINDAAMAGE✧</b>  |
+| <b>abel31</b> | <b>DJ_Dave</b> | <b>No_4mat</b> | <b>Yeat</b> | <b>Yury</b> | <b>rafale351</b>  |
 
 
 ## My top artists this year
