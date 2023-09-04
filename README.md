@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/390570ebe9ff4474c41ab1f7d8792356.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6baa010fda3828d3b1517274f424e1d7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d3d475c01c6042e1c2229d2b22df8a5b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/477672e9895ee5eee303b001758ca5d0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dad1dbdc55c1ebcac88bf32d7e0dcc7d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41c7833ee2a51ca24cf9366779496391.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Poumtica</b> | <b>Moss Velveta</b> | <b>No_4mat</b> | <b>Tomorrow</b> | <b>TurboKevin</b> | <b>MCR-T</b>  |
+| <b>13 Block</b>  |
 
 
 ## My top artists this year
