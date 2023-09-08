@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41c7833ee2a51ca24cf9366779496391.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41c7833ee2a51ca24cf9366779496391.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e6d0c7061adc56f9a541d6783a256bf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/030766c77e3fae73d198fcebb3b09d46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b23354f19e390b503fbb88b2d062cefb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>13 Block</b>  |
+| <b>13 Block</b> | <b>Mcseedy</b> | <b>Sgarz</b> | <b>BBY GOYARD</b> | <b>horsegiirL</b> | <b>Sorroxxe</b>  |
 
 
 ## My top artists this year
