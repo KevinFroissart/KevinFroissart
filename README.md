@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e6d0c7061adc56f9a541d6783a256bf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/030766c77e3fae73d198fcebb3b09d46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b23354f19e390b503fbb88b2d062cefb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0f74f610177b919c6942b153afae1299.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2a829cc6035ad16e65baf2211309a9a1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/84611cae2b5a5a00c5eb9b7b5430b817.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1a800a1a7b644aa5cfe8aac268b093ff.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c85e92005f735cdc0fdfe3278b016869.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/28ef3a6473c219b01ffcb5df2beba7b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e30a522c4343d8acc0a138002c57d84c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mcseedy</b> | <b>Sgarz</b> | <b>BBY GOYARD</b> | <b>horsegiirL</b> | <b>Sorroxxe</b> | <b>xójira</b>  |
+| <b>Freeze Corleone</b> | <b>Diddi Trix</b> | <b>Favé</b> | <b>Heuss L'enfoiré</b> | <b>PLK</b> | <b>WeRenoi</b>  |
 
 
 ## My top artists this year
