@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dad1dbdc55c1ebcac88bf32d7e0dcc7d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d9aeebde5d7f6c37baa5a901658f3f13.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d1c872b970f600e311e6a69bcbfeb9ab.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a2a2bbee2de6d68ae769a744c8fc6b92.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6e75ca803b79bdbfb2a894cdd8b6bf65.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/97449ebb1496760f5cde16de8f204ee6.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7bea1677f9dc2f720486e637df0a2f49.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>MCR-T</b> | <b>Jonah Lee</b> | <b>Staggr</b> | <b>Cult Member</b> | <b>Gallowayyys</b> | <b>gamvae</b>  |
+| <b>Tobias Lilja</b> | <b>Codfish</b>  |
 
 
 ## My top artists this year
