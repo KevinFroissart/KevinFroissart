@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/97449ebb1496760f5cde16de8f204ee6.jpg>  |
+ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Tobias Lilja</b>  |
+ |
 
 
 ## My top artists this year
