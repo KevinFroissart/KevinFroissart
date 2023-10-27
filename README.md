@@ -10,9 +10,9 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/97fa434a08c2b1aff739ed665c54f8ba.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2c596bd8481e6a3bf4642566c66ca6b4.jpg>  |
+ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Abr.</b> | <b>Klaus Nomi</b> | <b>Softo</b>  |
+ |
 
 
 ## My top artists this year
