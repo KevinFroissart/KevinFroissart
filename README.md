@@ -10,15 +10,15 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
- |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57da5ae29e5fc6971682ea8e9939b700.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/be8609f756ea9d5519fd2cb8a3ab2dca.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/647784b9abd326e9e4172ebfee50a116.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/779771799221b0d4245e327f7a365ac9.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
- |
+| <b>Neko</b> | <b>Janis Zielinski</b> | <b>LÄUFF</b> | <b>Arman John</b> | <b>Dallaniel</b> | <b>ECZODIA</b>  |
 
 
 ## My top artists this year
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3722349b7303ba77be6cc007539e43a7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/55a600eb4fa97f35ec1968f4a60cb454.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a8a377883c30c110cbec92b1c396407.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/31fe68b863f449fdaed8f9796a3ad695.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/760b6ea064bf57d1854a3ca2a289aec9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a8a377883c30c110cbec92b1c396407.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dad1dbdc55c1ebcac88bf32d7e0dcc7d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1bba0ac963946fdfa20c1dc85c9b3fee.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>snorunt</b> | <b>Real O</b> | <b>Ascendant Vierge</b> | <b>Metro Boomin</b> | <b>Ralphie Choo</b> | <b>Enei</b>  |
+| <b>snorunt</b> | <b>Ascendant Vierge</b> | <b>Real O</b> | <b>Ralphie Choo</b> | <b>MCR-T</b> | <b>Metro Boomin</b>  |
 
 
 ## Operating Systems 🖱️
