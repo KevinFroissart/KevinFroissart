@@ -1,6 +1,6 @@
 ## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and student based in Lyon. I'm deeply committed to expanding my understanding of various technologies, and I'm currently pursuing a Master's Degree at the University of Lyon. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
+Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and student based in Geneva. I'm deeply committed to expanding my understanding of various technologies, and gain experience as I grow through my work experiences. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KevinFroissart" alt="KevinFroissart" /></a> </p>
 
@@ -29,13 +29,6 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)    
-
-## Mobile 📱
-
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)    
 
 ## Backend 🏭
 
@@ -43,7 +36,6 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
@@ -55,14 +47,10 @@ Hello there! My name is Kévin, and I'm a 23-year-old computer enthusiast and st
 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=whit)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
 ## Shell 🔲
 
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## Cooperation 🧑‍🤝‍🧑
