@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57da5ae29e5fc6971682ea8e9939b700.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4c4676dd38c9683fd6d61653a1ff512c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8625ee4e372fe011f56dd4a7891f174a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f56e5418dc8e5b598e2da87f7dbf1873.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/834fbb8247d74bb60d2fc2ded5812ea4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ae52d0bfcfa8478cba8b63e7c94b8b18.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8794036d6b5a4f1c94c8aba4066f518e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Ascendant Vierge</b> | <b>Neko</b> | <b>Alex Pristupa</b> | <b>EFESIAN</b> | <b>FrankJavCee</b> | <b>Fyex</b>  |
+| <b>Ascendant Vierge</b> | <b>Bou</b> | <b>Biia</b> | <b>Dr. Peacock</b> | <b>Infected Mushroom</b> | <b>Vermeer</b>  |
 
 
 ## My top artists this year
