@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/939a227764295baf05eb3041a05bb56c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a86c433892104feabf45d8d9d20cbc6c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f56e5418dc8e5b598e2da87f7dbf1873.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/be8609f756ea9d5519fd2cb8a3ab2dca.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f56e5418dc8e5b598e2da87f7dbf1873.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/be8609f756ea9d5519fd2cb8a3ab2dca.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a86c433892104feabf45d8d9d20cbc6c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/939a227764295baf05eb3041a05bb56c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/834fbb8247d74bb60d2fc2ded5812ea4.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Miyara</b> | <b>Manni Dee</b> | <b>Sexy Sushi</b> | <b>Bou</b> | <b>Janis Zielinski</b> | <b>Crazy Dancers</b>  |
+| <b>Miyara</b> | <b>Bou</b> | <b>Janis Zielinski</b> | <b>Sexy Sushi</b> | <b>Manni Dee</b> | <b>Biia</b>  |
 
 
 ## My top artists this year
