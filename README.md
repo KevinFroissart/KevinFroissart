@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/78d893706222dda9fb478605c2640613.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57263231d5283ecb45a147ce55090f0b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/604e7aed22a1103dd89ec73003c20586.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/af945d4ae2d3994646a5f0c7e81fbaaa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/89e1b203688e837353e2b7b18f78278d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/78d893706222dda9fb478605c2640613.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/af945d4ae2d3994646a5f0c7e81fbaaa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a8fc3c8d8b5658e09ad178a8d32bcd5d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/89e1b203688e837353e2b7b18f78278d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Pussy Riot</b> | <b>Tic-Tekk-Toe</b> | <b>11:11 Music Group</b> | <b>Hctm</b> | <b>TROTRAZ</b> | <b>yarimov</b>  |
+| <b>Pussy Riot</b> | <b>TROTRAZ</b> | <b>Grimes</b> | <b>Joann</b> | <b>TecHsia</b> | <b>yarimov</b>  |
 
 
 ## My top artists this year
