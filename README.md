@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e491e8c424b7ecce6d64c99d2f93f2c4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb31cc703fa84f06a4bf7e7f7fdca90f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/78d893706222dda9fb478605c2640613.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/eabaa7360f174a70af2b8609de5176e8.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/92a06a8d5a5ff2bbcdb20997e16dd4e4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e491e8c424b7ecce6d64c99d2f93f2c4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e411a49b6e467138d48848d7d4814d5d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb31cc703fa84f06a4bf7e7f7fdca90f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bc4db64a10ddf12555471b4b277957d2.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>B.unq!</b> | <b>Discole</b> | <b>Fantasm</b> | <b>Gamemode</b> | <b>Pussy Riot</b> | <b>Sekta</b>  |
+| <b>Guigoo</b> | <b>B.unq!</b> | <b>Cristobal Pesce</b> | <b>Discole</b> | <b>Fantasm</b> | <b>MoshTekk</b>  |
 
 
 ## My top artists this year
