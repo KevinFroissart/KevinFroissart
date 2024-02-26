@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/312c7149a8596386759d1e474409af9f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ada05bb9432a492d869b8dc68a336c9f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d5f4750d73fcff3ee4679d94b41852e2.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/312c7149a8596386759d1e474409af9f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ada05bb9432a492d869b8dc68a336c9f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d5f4750d73fcff3ee4679d94b41852e2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb5727f85ab9b5b572ecdd0ece2893e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>BananaCar</b> | <b>G&J</b> | <b>Junkie Kid</b> | <b>Osmik</b> | <b>Palastoni</b> | <b>VoidWalker</b>  |
+| <b>BananaCar</b> | <b>Junkie Kid</b> | <b>Osmik</b> | <b>Palastoni</b> | <b>VoidWalker</b> | <b>CAIVA</b>  |
 
 
 ## My top artists this year
