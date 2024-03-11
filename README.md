@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/adb5eebe279fb8a067ab2819b85f0a01.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/785ce359f7074252878228fd76300f52.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/80b61f0c2d604819935bc269983f8508.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/718fed94bc0e4105c1840e04f0353c36.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/80b61f0c2d604819935bc269983f8508.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/718fed94bc0e4105c1840e04f0353c36.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3532ca9baa8bca847ed73470ca88a4c8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3a6254aa9d5fb8971ad09f1187b11582.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d6517566d30d136fb126c141b2710147.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Macky Gee</b> | <b>RBX</b> | <b>Beatforge</b> | <b>Black Screen</b> | <b>Cadzow</b> | <b>César Franck</b>  |
+| <b>DJ Roma</b> | <b>Beatforge</b> | <b>César Franck</b> | <b>CLTX</b> | <b>Dreamkiller</b> | <b>eargasm god</b>  |
 
 
 ## My top artists this year
