@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2adcb33eec471ba80328eeb164dd776.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57760d0fd3ab08a9ae3089671d8b17a4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6f825e7b77584546c5e5fc08af623033.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2a3c8860c80e8d372ebae2b8bb59275e.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2adcb33eec471ba80328eeb164dd776.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2a3c8860c80e8d372ebae2b8bb59275e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6f825e7b77584546c5e5fc08af623033.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57760d0fd3ab08a9ae3089671d8b17a4.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>deMusiax</b> | <b>CheapeX</b> | <b>Deborah De Luca</b> | <b>Igorrr</b> | <b>Scheppertus</b> | <b>Cracky Koksberg</b>  |
+| <b>deMusiax</b> | <b>CheapeX</b> | <b>Scheppertus</b> | <b>Cracky Koksberg</b> | <b>Igorrr</b> | <b>Deborah De Luca</b>  |
 
 
 ## My top artists this year
