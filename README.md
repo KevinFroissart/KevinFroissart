@@ -16,9 +16,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 
 
 ## My top artists this year
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb46dbc29a547518a428cd9c228b76e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4905d9281e417d4689a5b2a6161b17c4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f7541f13133f8b3d16e0acfd6a0f072e.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb46dbc29a547518a428cd9c228b76e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4905d9281e417d4689a5b2a6161b17c4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f7541f13133f8b3d16e0acfd6a0f072e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Junkzz</b> | <b>Billx</b> | <b>Ascendant Vierge</b> | <b>Scheppertus</b> | <b>G Zoom</b> | <b>Ikkimel</b>  |
+| <b>Junkzz</b> | <b>Ascendant Vierge</b> | <b>Scheppertus</b> | <b>Billx</b> | <b>G Zoom</b> | <b>Ikkimel</b>  |
 
 
 ## Operating Systems 🖱️
