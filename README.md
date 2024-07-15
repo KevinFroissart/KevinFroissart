@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b45ab896173abae8ac6bf9e7405d49b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf92b0e9b6294adfbac4c861f52210ed.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b1067eca788ab356c66cd0d71d4e43cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9963be20b5af4794a49220e381b8d4b3.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Der Aztekke</b> | <b>Mathu</b> | <b>Starseeker</b> | <b>EXOPHORA</b> | <b>Hashtekk</b> | <b>Kritical Mass</b>  |
+| <b>Mathu</b> | <b>Afem Syko</b> | <b>AGONY</b> | <b>AkroBaTeKK</b> | <b>ANSBRO</b> | <b>Bmg</b>  |
 
 
 ## My top artists this year
