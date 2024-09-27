@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a128bd0d96a11df389a022a15d662454.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8ef6e32558654b0e3c725368f7e1a750.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/11e62ebee72f4717b6def2c21d4d13e1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2adcb33eec471ba80328eeb164dd776.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4850ba291f16d24a69f6848bf3534916.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2538a14b0ec4220cf2ccc1077d664f48.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2adcb33eec471ba80328eeb164dd776.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c011343d8bba0cb32df39e9d26294d68.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/120ea1a2c36c1c2ebeeb8406ec99e31b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/29e681ce8eff2b2b762e6f5865bf42bd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/139e2ca9cef73e747b18118da740fd52.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ad6c7a8fd29a18b3da84211423dfb69b.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Cobrah</b> | <b>That Kid</b> | <b>Diamond Doll xo</b> | <b>CheapeX</b> | <b>Alice Longyu Gao</b> | <b>kumo 99</b>  |
+| <b>CheapeX</b> | <b>Miguel Angeles</b> | <b>ilyhiryu</b> | <b>hornja</b> | <b>femtanyl</b> | <b>luvseat</b>  |
 
 
 ## My top artists this year
