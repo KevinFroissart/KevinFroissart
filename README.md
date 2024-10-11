@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/513cd0d509ba89e7ce60044b7d59fca9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/120ea1a2c36c1c2ebeeb8406ec99e31b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/29e681ce8eff2b2b762e6f5865bf42bd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c011343d8bba0cb32df39e9d26294d68.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/199ac5d50efdc37452e00d8cb2b9622b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f32553bf19a90039d892e99444bc28e8.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Syko</b> | <b>SaphireLeFleur</b> | <b>ilyhiryu</b> | <b>S(AINT)</b> | <b>hornja</b> | <b>Miguel Angeles</b>  |
+| <b>Yuumu</b> | <b>Thekke</b> | <b>Kajet</b> | <b>RomancePlanet</b> | <b>Enfor</b> | <b>MAXPVNK</b>  |
 
 
 ## My top artists this year
