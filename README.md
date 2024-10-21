@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0ee684440b374544ab3787f656435d2b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6d8a0ddc16e80c9936ca0757597950e1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0c96441318bb4c55a9f7bc614ba735d1.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/eb288726749647ce8622d764234de6bb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9e32127f2c4a6032a0cfa9610fc547f7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/31a82b96fea43bea00599257f843ebd5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e980b4814d045fc866429601d8a9515.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/66ce9216c6f2b1f47695ca667f055a9c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Wretched Excess</b> | <b>Radiohead</b> | <b>Uzumxki</b> | <b>Thekke</b> | <b>Pixies</b> | <b>Kajet</b>  |
+| <b>Vernex</b> | <b>Anguish</b> | <b>latex fruit</b> | <b>Miny</b> | <b>Spooky</b> | <b>DJ Gigola</b>  |
 
 
 ## My top artists this year
