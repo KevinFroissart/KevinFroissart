@@ -12,7 +12,7 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 ## Who I've been listening to this week
 | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/456210cf0d6a862dd24dc83feecd6daf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9ce2b7a72893e9ae5853beb226fef3ee.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mrs. Tekkno</b> | <b>vega la bagarre</b> | <b>Luzkan</b> | <b>Exomni</b> | <b>Knurft</b> | <b>System of a Down</b>  |
+| <b>Mrs. Tekkno</b> | <b>vega la bagarre</b> | <b>Exomni</b> | <b>Luzkan</b> | <b>Knurft</b> | <b>System of a Down</b>  |
 
 
 ## My top artists this year
