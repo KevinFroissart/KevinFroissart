@@ -12,7 +12,7 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 ## Who I've been listening to this week
 | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e980b4814d045fc866429601d8a9515.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mrs. Tekkno</b> | <b>Exomni</b> | <b>vega la bagarre</b> | <b>Lonelysoul.</b> | <b>Spooky</b> | <b>AltraX</b>  |
+| <b>Mrs. Tekkno</b> | <b>Exomni</b> | <b>vega la bagarre</b> | <b>Lonelysoul.</b> | <b>Spooky</b> | <b>Anabolic Impact</b>  |
 
 
 ## My top artists this year
