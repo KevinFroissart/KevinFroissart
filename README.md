@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e24e4cab90ef43a197503f105cc73065.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0598c69c67557f933ddf2b6c2d60ec5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/042d645fe83242b0b1d8b1c7745a1dda.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b21c2f7a10d899c71becdbc2d1643599.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/eeb21261ccadc3a02f3e520de997d38a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acb46dbc29a547518a428cd9c228b76e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Vald</b> | <b>The Crystals</b> | <b>AC13</b> | <b>Tommyknocker</b> | <b>Marconi Union</b> | <b>N!GHTvisiøn</b>  |
+| <b>PsyTekkz</b> | <b>Netherworld</b> | <b>Billx</b> | <b>HRXSTAL</b> | <b>Mrs. Tekkno</b> | <b>HARDSTYLE MOTIVATION</b>  |
 
 
 ## My top artists this year
