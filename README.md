@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8654b00191ba6717f265b1f46c3e0486.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/91605a20a7cf0a04972ba078e96db756.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2188b145b5a579f941ecda460fa19e4a.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8654b00191ba6717f265b1f46c3e0486.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0e980b4814d045fc866429601d8a9515.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/53b92d9f8d14964c02cffbdabfc91173.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2188b145b5a579f941ecda460fa19e4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3e2498fea503dfff692e1918d87cf399.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Brutalismus 3000</b> | <b>Thekke</b> | <b>PsyTekkz</b> | <b>TEKTOSHI</b> | <b>Always Mirin</b> | <b>Baltra</b>  |
+| <b>Brutalismus 3000</b> | <b>Thekke</b> | <b>Spooky</b> | <b>Le Wanski</b> | <b>Baltra</b> | <b>Xn88ax</b>  |
 
 
 ## My top artists this year
