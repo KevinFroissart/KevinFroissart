@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7f8a1de09a0852e4ca99e1fe680ef949.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e1a3c1ada68db2fe194bb39e2992639d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf92b0e9b6294adfbac4c861f52210ed.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/53b92d9f8d14964c02cffbdabfc91173.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b4fb6bc6ae9823d35485f46ba8ffb912.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8cb3111113c462c9f55da2314ae2cc8a.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7f8a1de09a0852e4ca99e1fe680ef949.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/53b92d9f8d14964c02cffbdabfc91173.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf92b0e9b6294adfbac4c861f52210ed.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8cb3111113c462c9f55da2314ae2cc8a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e1a3c1ada68db2fe194bb39e2992639d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b4fb6bc6ae9823d35485f46ba8ffb912.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>damon r.</b> | <b>Arenci</b> | <b>AGONY</b> | <b>Le Wanski</b> | <b>NTBR</b> | <b>The Hellp</b>  |
+| <b>damon r.</b> | <b>Le Wanski</b> | <b>AGONY</b> | <b>The Hellp</b> | <b>Arenci</b> | <b>NTBR</b>  |
 
 
 ## My top artists this year
