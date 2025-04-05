@@ -1,8 +1,8 @@
 ## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and student based in Geneva. I'm deeply committed to expanding my understanding of various technologies, and gain experience as I grow through my work experiences. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
+Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full stack software engineer based in Geneva. I'm deeply committed to expanding my understanding of various technologies, and gain experience as I grow through my work experiences. My GitHub profile serves as a platform to showcase my skills and projects, as well as to connect with other like-minded individuals in the tech world.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KevinFroissart" alt="KevinFroissart" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KevinFroissart&theme=monokai" alt="KevinFroissart" /></a> </p>
 
 ## Find Me Elsewhere :computer:
 
@@ -36,27 +36,47 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Backend 🏭
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![](https://img.shields.io/badge/JBoss%20EAP6-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 
 ## Database ⌛
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Integration 🔌
+
+![](https://img.shields.io/badge/Red%20Hat%20Open%20Shift-CC0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-316CE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+## Messaging System 📧
+
+![](https://img.shields.io/badge/Kafka-252122?style=for-the-badge&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+## Dependency Management 💾
+
+![](https://img.shields.io/badge/Maven-D84633?style=for-the-badge&logo=apachemaven&logoColor=white)
+![](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/npm-1A2E5C?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/PnpM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ## IDE 💻
 
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=vscodium&logoColor=white)
 
 ## Shell 🔲
 
@@ -71,7 +91,7 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Design / Styling 🖌️
 
@@ -81,11 +101,11 @@ Hello there! My name is Kévin, I'm a 23-year-old computer enthusiast and studen
 
 ## My GitHub Stats &#x1f4c8;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinFroissart&show_icons=true&locale=en&layout=compact" alt="KevinFroissart" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinFroissart&show_icons=true&locale=en&layout=compact&theme=monokai" alt="KevinFroissart" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinFroissart&show_icons=true&locale=en" alt="KevinFroissart" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinFroissart&show_icons=true&locale=en&theme=monokai" alt="KevinFroissart" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFroissart&" alt="KevinFroissart" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFroissart&theme=monokai" alt="KevinFroissart" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KevinFroissart/KevinFroissart/blob/output/github-contribution-grid-snake.svg">
