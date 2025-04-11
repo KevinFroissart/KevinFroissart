@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/110b74bbfb93083d3844c1ca2d836317.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2538a14b0ec4220cf2ccc1077d664f48.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f99271e1388673d5cab50d6047b2ba77.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e77ac2b201d64b76d8ea873f9e947b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2748e40427dd76cc46e810a4eb6d578.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/64d6b5912e3929e86947b9f8adb92a19.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd2857db9fb0c420cfe1cb99269c04b3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/110b74bbfb93083d3844c1ca2d836317.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2538a14b0ec4220cf2ccc1077d664f48.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e77ac2b201d64b76d8ea873f9e947b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/59ec8275b52a24dbe30fc735431c96d4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b81f9386614274792f2af67702541c9d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Brutalismus 3000</b> | <b>kumo 99</b> | <b>Netherwalker</b> | <b>Flawx</b> | <b>Sköne</b> | <b>ATLXS</b>  |
+| <b>Linkin Park</b> | <b>Brutalismus 3000</b> | <b>kumo 99</b> | <b>Flawx</b> | <b>IC3PEAK</b> | <b>Bru-C</b>  |
 
 
 ## My top artists this year
