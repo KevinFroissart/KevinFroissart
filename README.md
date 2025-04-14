@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd2857db9fb0c420cfe1cb99269c04b3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/110b74bbfb93083d3844c1ca2d836317.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2538a14b0ec4220cf2ccc1077d664f48.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e77ac2b201d64b76d8ea873f9e947b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/59ec8275b52a24dbe30fc735431c96d4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b81f9386614274792f2af67702541c9d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd2857db9fb0c420cfe1cb99269c04b3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/29e681ce8eff2b2b762e6f5865bf42bd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf92b0e9b6294adfbac4c861f52210ed.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b81f9386614274792f2af67702541c9d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/59ec8275b52a24dbe30fc735431c96d4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc8426d06fe2dd48222f487e3906585e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Linkin Park</b> | <b>Brutalismus 3000</b> | <b>kumo 99</b> | <b>Flawx</b> | <b>IC3PEAK</b> | <b>Bru-C</b>  |
+| <b>Linkin Park</b> | <b>hornja</b> | <b>AGONY</b> | <b>Bru-C</b> | <b>IC3PEAK</b> | <b>Laylow</b>  |
 
 
 ## My top artists this year
