@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf92b0e9b6294adfbac4c861f52210ed.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff1676866efc0e3802e6c4a3c9b05d04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/110b74bbfb93083d3844c1ca2d836317.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7f8a1de09a0852e4ca99e1fe680ef949.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff1676866efc0e3802e6c4a3c9b05d04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a40a1eae391f91f2b15014c2fd822d44.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/110b74bbfb93083d3844c1ca2d836317.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cf92b0e9b6294adfbac4c861f52210ed.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mrs. Tekkno</b> | <b>AGONY</b> | <b>Ephy Pinkman</b> | <b>Fortek</b> | <b>Brutalismus 3000</b> | <b>damon r.</b>  |
+| <b>Fortek</b> | <b>Ephy Pinkman</b> | <b>Mrs. Tekkno</b> | <b>潘PAN</b> | <b>Brutalismus 3000</b> | <b>AGONY</b>  |
 
 
 ## My top artists this year
