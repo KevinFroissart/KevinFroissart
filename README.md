@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a132282a9e4002ee714ea684ebf1098.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9846936c50a03d85cf70b9159116490d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8800cfa58667e7ebb5266579f3db1788.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5eaed096593d5ee544d47914827d50ce.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff1676866efc0e3802e6c4a3c9b05d04.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a132282a9e4002ee714ea684ebf1098.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5eaed096593d5ee544d47914827d50ce.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8800cfa58667e7ebb5266579f3db1788.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9846936c50a03d85cf70b9159116490d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Yeat</b> | <b>Strano</b> | <b>Mrs. Tekkno</b> | <b>Vandal</b> | <b>Anyma</b> | <b>Ephy Pinkman</b>  |
+| <b>Yeat</b> | <b>Anyma</b> | <b>Foxtune</b> | <b>Vandal</b> | <b>Mrs. Tekkno</b> | <b>Strano</b>  |
 
 
 ## My top artists this year
