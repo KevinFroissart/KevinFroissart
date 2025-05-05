@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a132282a9e4002ee714ea684ebf1098.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5eaed096593d5ee544d47914827d50ce.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/68af8a97bdfc4ddfaea6637bc3207cc4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8f8aa165d0864767b5b9b352f59086cf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/59ec8275b52a24dbe30fc735431c96d4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8f8aa165d0864767b5b9b352f59086cf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5eaed096593d5ee544d47914827d50ce.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e296a9890ba10f1a6af5e78122e8fe3b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/59ec8275b52a24dbe30fc735431c96d4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/68af8a97bdfc4ddfaea6637bc3207cc4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/0a132282a9e4002ee714ea684ebf1098.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Yeat</b> | <b>Anyma</b> | <b>Ida Corr</b> | <b>Mat Weasel Busters</b> | <b>IC3PEAK</b> | <b>Mrs. Tekkno</b>  |
+| <b>Mat Weasel Busters</b> | <b>Anyma</b> | <b>BNYX®</b> | <b>IC3PEAK</b> | <b>Ida Corr</b> | <b>Yeat</b>  |
 
 
 ## My top artists this year
