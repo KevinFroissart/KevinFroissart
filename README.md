@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e296a9890ba10f1a6af5e78122e8fe3b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6b9d8a281a8950d7d748b3181cb4e176.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/64d6b5912e3929e86947b9f8adb92a19.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c67cb99d4fa9522ee274d054525d39d4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c2b7215c7ea800523fa09638c5a43f3c.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6b9d8a281a8950d7d748b3181cb4e176.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/64d6b5912e3929e86947b9f8adb92a19.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e296a9890ba10f1a6af5e78122e8fe3b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ad16487bceb4bcf8f1adbad58b75b2b2.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>BNYX®</b> | <b>Mike Klubnika</b> | <b>ATLXS</b> | <b>Dr. Peacock</b> | <b>Kid Exotic</b> | <b>Mr. Bassmeister</b>  |
+| <b>Mike Klubnika</b> | <b>ATLXS</b> | <b>Dr. Peacock</b> | <b>BNYX®</b> | <b>echia</b> | <b>Timothée Joly</b>  |
 
 
 ## My top artists this year
