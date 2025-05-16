@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6b9d8a281a8950d7d748b3181cb4e176.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/64d6b5912e3929e86947b9f8adb92a19.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e296a9890ba10f1a6af5e78122e8fe3b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ad16487bceb4bcf8f1adbad58b75b2b2.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5cff55f60493cfdceaf91785ff207ff.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ed60d1bed953883f9bc15546ce00689c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8c0a78ce2dc64a4c82be0ce2763b613a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/18480e3f54d0dbd7028a6db1cf9e9acd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acfaae24049baac1f8377c8a5e5f7214.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mike Klubnika</b> | <b>ATLXS</b> | <b>Dr. Peacock</b> | <b>BNYX®</b> | <b>echia</b> | <b>Timothée Joly</b>  |
+| <b>SCH</b> | <b>akucum</b> | <b>IC3PEAK</b> | <b>Bahamadia</b> | <b>Exodia</b> | <b>Kalash Criminel</b>  |
 
 
 ## My top artists this year
