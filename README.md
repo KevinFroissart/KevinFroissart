@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5cff55f60493cfdceaf91785ff207ff.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ed60d1bed953883f9bc15546ce00689c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8c0a78ce2dc64a4c82be0ce2763b613a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/18480e3f54d0dbd7028a6db1cf9e9acd.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acfaae24049baac1f8377c8a5e5f7214.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6524a2c057fe8e1f3a22099305c45841.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/acfaae24049baac1f8377c8a5e5f7214.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bc76510de90b953567efb346ae1340a4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b5cff55f60493cfdceaf91785ff207ff.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ed60d1bed953883f9bc15546ce00689c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>SCH</b> | <b>akucum</b> | <b>IC3PEAK</b> | <b>Bahamadia</b> | <b>Exodia</b> | <b>Kalash Criminel</b>  |
+| <b>lodoni</b> | <b>SCH</b> | <b>Kalash Criminel</b> | <b>Ziahfyah</b> | <b>akucum</b> | <b>IC3PEAK</b>  |
 
 
 ## My top artists this year
