@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6524a2c057fe8e1f3a22099305c45841.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bc76510de90b953567efb346ae1340a4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e15b3ed8ed003ab4c069fabfc8862e46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e15b3ed8ed003ab4c069fabfc8862e46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d58f97a273104079e29a758cc676bc6d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6524a2c057fe8e1f3a22099305c45841.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Real O</b> | <b>lodoni</b> | <b>Ziahfyah</b> | <b>Acidpach</b> | <b>SCH</b> | <b>Mrs. Tekkno</b>  |
+| <b>Real O</b> | <b>Acidpach</b> | <b>Ikkimel</b> | <b>lodoni</b> | <b>Mrs. Tekkno</b> | <b>SCH</b>  |
 
 
 ## My top artists this year
