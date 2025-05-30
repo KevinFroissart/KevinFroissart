@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e15b3ed8ed003ab4c069fabfc8862e46.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/d58f97a273104079e29a758cc676bc6d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6524a2c057fe8e1f3a22099305c45841.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e8997667bef1b000b11766320b2c10c5.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/931135a34257673ec8ab15f3980d086d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7316db4f7581bdb656bddd813d882742.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb43f51dc672c10c748a9bd882563851.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1849ee5f6eec87f1edc428aa72b1af0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Real O</b> | <b>Acidpach</b> | <b>Ikkimel</b> | <b>lodoni</b> | <b>Mrs. Tekkno</b> | <b>SCH</b>  |
+| <b>Eloi</b> | <b>Liv Del Estal</b> | <b>abel31</b> | <b>ADÉS THE PLANET</b> | <b>bangbowbing</b> | <b>Ascendant Vierge</b>  |
 
 
 ## My top artists this year
