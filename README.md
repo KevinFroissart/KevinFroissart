@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7316db4f7581bdb656bddd813d882742.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb43f51dc672c10c748a9bd882563851.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7749a3fdb1e3626c7689c4f97b517388.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/229db122971f2a5367fcf320fbd81b1d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7749a3fdb1e3626c7689c4f97b517388.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7316db4f7581bdb656bddd813d882742.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/be67671edc137fc1fbe9a76110b5c86a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb43f51dc672c10c748a9bd882563851.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/888a60f7553050091a66c1ceec0caa04.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Liv Del Estal</b> | <b>Ascendant Vierge</b> | <b>Vald</b> | <b>abel31</b> | <b>Zuukou Mayzie</b> | <b>bangbowbing</b>  |
+| <b>That Kid</b> | <b>Zuukou Mayzie</b> | <b>Liv Del Estal</b> | <b>kurffew</b> | <b>abel31</b> | <b>Ascendant Vierge</b>  |
 
 
 ## My top artists this year
