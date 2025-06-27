@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a97b93a9527dd2e9cf8da97ad783b2be.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/77649e82d38dc96d2b2e221938eef583.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/60ae03e9aa4d8cd98dd6c014d690fa58.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/79805a9b61f07323b9601fc266a51d4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f36687244f83e6b8716d4b5a42002c89.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/43d7fa96248f4fc1cf17dc051ae87a2d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0693ba1516c28f7036b81ff53ad871c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2838c799785a699e81c47d7d8d5de155.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9d138691993eb67cb6b82b0b4af7a171.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/beaf80016c2b79bff2fcc46623198e7a.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>wasting shit</b> | <b>Izzy Camina</b> | <b>Tom D.</b> | <b>Ptite Soeur</b> | <b>Vald</b> | <b>menace Santana</b>  |
+| <b>The Prodigy</b> | <b>Ikkimel</b> | <b>Riserayss</b> | <b>Kloud</b> | <b>Vald</b> | <b>Kazzey</b>  |
 
 
 ## My top artists this year
