@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/86a25ecebc84663d1fd3ce4c103b2e36.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/931135a34257673ec8ab15f3980d086d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bac950c4c8460c141722b0960514c97b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c0e5efe612027b70b76c1fe11c58a135.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/60ae03e9aa4d8cd98dd6c014d690fa58.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/20ef62aa18d14d878ab062efe8bb0115.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/df81b8b3364891befb6120dceb54774f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1a57bc34ca8dbab4f73ec430b7fe32b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/09af9f3c8aadfc27fd33fa52fa5a762c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Lena Raine</b> | <b>Eloi</b> | <b>Hologram Lo'</b> | <b>N!GHTvisiøn</b> | <b>EDMMARO</b> | <b>Vald</b>  |
+| <b>Tom D.</b> | <b>DJ TÖRKE</b> | <b>Romantica</b> | <b>Cannelle</b> | <b>LONOWN</b> | <b>Contact Sports</b>  |
 
 
 ## My top artists this year
