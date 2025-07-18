@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/60ae03e9aa4d8cd98dd6c014d690fa58.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/20ef62aa18d14d878ab062efe8bb0115.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/df81b8b3364891befb6120dceb54774f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1a57bc34ca8dbab4f73ec430b7fe32b0.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/818cc61ab82ecd53d6e7023252a2809e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1aadade98d94d0f53f67ccd5104a1296.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/64d6b5912e3929e86947b9f8adb92a19.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>13 Block</b> | <b>Tom D.</b> | <b>DJ TÖRKE</b> | <b>Romantica</b> | <b>Cannelle</b> | <b>LONOWN</b>  |
+| <b>13 Block</b> | <b>DJ TÖRKE</b> | <b>babystarz</b> | <b>JOYRYDE</b> | <b>Vladimir Cauchemar</b> | <b>ATLXS</b>  |
 
 
 ## My top artists this year
