@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b13f3d7268d74f4275e4a47f5e68bdb8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c3bacf2f6150b1a4a23ba78021664fd2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/261f7c2762c5ddb1188cff2c8f0ceef3.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b13f3d7268d74f4275e4a47f5e68bdb8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c3bacf2f6150b1a4a23ba78021664fd2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/60ae03e9aa4d8cd98dd6c014d690fa58.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Jima</b> | <b>13 Block</b> | <b>TKKF</b> | <b>55ASKY</b> | <b>Laïoss</b> | <b>Vieze Asbak</b>  |
+| <b>Jima</b> | <b>13 Block</b> | <b>TKKF</b> | <b>Laïoss</b> | <b>55ASKY</b> | <b>Tom D.</b>  |
 
 
 ## My top artists this year
