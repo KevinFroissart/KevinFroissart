@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abdae440c8e31a15d4936c73e4d0ea23.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/21a5598d4f7d97b02e4c231f24cd237a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/42440199bdc98103510b97f4ef59655a.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/abdae440c8e31a15d4936c73e4d0ea23.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/21a5598d4f7d97b02e4c231f24cd237a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/42440199bdc98103510b97f4ef59655a.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>13 Block</b> | <b>Jima</b> | <b>DM 90</b> | <b>Indecorum</b> | <b>MCR-T</b> | <b>poproboval</b>  |
+| <b>13 Block</b> | <b>DM 90</b> | <b>Indecorum</b> | <b>Jima</b> | <b>MCR-T</b> | <b>poproboval</b>  |
 
 
 ## My top artists this year
