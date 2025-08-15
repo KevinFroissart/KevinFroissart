@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a96bcd7c2da378c5b13478a481c190f7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6bf4ff9fbabfa736fb58b9703ba2c1a0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cdcf260d7b5b5d3d7dda3f881767c4d2.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a96bcd7c2da378c5b13478a481c190f7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6035cf14a16bc986dd1fe78bf1cd0b0a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6bf4ff9fbabfa736fb58b9703ba2c1a0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9a2e8d1f23a5b22431c1199e9bb02a4b.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mandragora</b> | <b>13 Block</b> | <b>55ASKY</b> | <b>Jima</b> | <b>MC Ingryd</b> | <b>Babalos</b>  |
+| <b>Mandragora</b> | <b>13 Block</b> | <b>✧BRAINDAAMAGE✧</b> | <b>MC Ingryd</b> | <b>WANNABEFRIENDS</b> | <b>Somewhere Special</b>  |
 
 
 ## My top artists this year
