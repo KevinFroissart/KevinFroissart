@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/004b109ca079489fb010bfa17bf5cb31.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/44e7ed13dde0c0635a17fc73212dcb0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7c362d687a861c0c74e7320a7ed03d3a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b48852246490151fd294603f993e857b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8dc537a867184139ac3e9ccaf4e4ba1d.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/004b109ca079489fb010bfa17bf5cb31.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/44e7ed13dde0c0635a17fc73212dcb0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b48852246490151fd294603f993e857b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8dc537a867184139ac3e9ccaf4e4ba1d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Zissou</b> | <b>Evil Grimace</b> | <b>Von Bikräv</b> | <b>Pure</b> | <b>Jima</b> | <b>La marmite</b>  |
+| <b>Zissou</b> | <b>Evil Grimace</b> | <b>Fuck Leeches</b> | <b>Jima</b> | <b>Pure</b> | <b>La marmite</b>  |
 
 
 ## My top artists this year
