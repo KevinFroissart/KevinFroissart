@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e93714132e380722272a25d8932bd2c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57263231d5283ecb45a147ce55090f0b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e93a8d9d635c97bc02614c84a95e9b03.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b4e4bcc0d18c40979868e5fde7ed3203.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41b6c596393f447da9a2692e57036b44.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57263231d5283ecb45a147ce55090f0b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e93714132e380722272a25d8932bd2c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e93a8d9d635c97bc02614c84a95e9b03.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b4e4bcc0d18c40979868e5fde7ed3203.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41b6c596393f447da9a2692e57036b44.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Cypis</b> | <b>Tic-Tekk-Toe</b> | <b>Billx</b> | <b>Indochine</b> | <b>Skarface</b> | <b>Fuck Leeches</b>  |
+| <b>Tic-Tekk-Toe</b> | <b>Cypis</b> | <b>Billx</b> | <b>Indochine</b> | <b>13 Block</b> | <b>Skarface</b>  |
 
 
 ## My top artists this year
