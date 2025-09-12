@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57263231d5283ecb45a147ce55090f0b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8e93714132e380722272a25d8932bd2c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e93a8d9d635c97bc02614c84a95e9b03.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b4e4bcc0d18c40979868e5fde7ed3203.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/41b6c596393f447da9a2692e57036b44.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/19034b30cde01c6ae6420c9f6abdeae2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/999d5ec94049e907a7ae2893f12bd7d2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2748e40427dd76cc46e810a4eb6d578.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/21ecfb891e9dd57ecd11a440fca8878b.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Tic-Tekk-Toe</b> | <b>Cypis</b> | <b>Billx</b> | <b>Indochine</b> | <b>13 Block</b> | <b>Skarface</b>  |
+| <b>BELEKTEK</b> | <b>KT-KLIZM</b> | <b>Sköne</b> | <b>Jima</b> | <b>ENHAM</b> | <b>NØNAME</b>  |
 
 
 ## My top artists this year
