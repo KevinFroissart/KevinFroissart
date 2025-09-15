@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/19034b30cde01c6ae6420c9f6abdeae2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/999d5ec94049e907a7ae2893f12bd7d2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2748e40427dd76cc46e810a4eb6d578.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3841d8644e52e80524523ed1f5f07d08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/21ecfb891e9dd57ecd11a440fca8878b.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/19034b30cde01c6ae6420c9f6abdeae2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/999d5ec94049e907a7ae2893f12bd7d2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87a6c8ab5f875202f2fb892c2392b35b.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>BELEKTEK</b> | <b>KT-KLIZM</b> | <b>Sköne</b> | <b>Jima</b> | <b>ENHAM</b> | <b>NØNAME</b>  |
+| <b>CØDEX</b> | <b>BELEKTEK</b> | <b>Alex Mouthon</b> | <b>ENHAM</b> | <b>KT-KLIZM</b> | <b>dalynn</b>  |
 
 
 ## My top artists this year
