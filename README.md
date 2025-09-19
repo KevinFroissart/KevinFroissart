@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/19034b30cde01c6ae6420c9f6abdeae2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/999d5ec94049e907a7ae2893f12bd7d2.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87a6c8ab5f875202f2fb892c2392b35b.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/229db122971f2a5367fcf320fbd81b1d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/164dc0d765cc09e02b4f223f013973f4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57263231d5283ecb45a147ce55090f0b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e93a8d9d635c97bc02614c84a95e9b03.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>CØDEX</b> | <b>BELEKTEK</b> | <b>Alex Mouthon</b> | <b>ENHAM</b> | <b>KT-KLIZM</b> | <b>dalynn</b>  |
+| <b>That Kid</b> | <b>CØDEX</b> | <b>Le Wanski</b> | <b>Tic-Tekk-Toe</b> | <b>Alex Mouthon</b> | <b>Billx</b>  |
 
 
 ## My top artists this year
