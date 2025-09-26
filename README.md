@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/229db122971f2a5367fcf320fbd81b1d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/164dc0d765cc09e02b4f223f013973f4.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a54a1e1939b59cdbc109febfbc7f290.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/152dd27a23704d2aab05a4645bddd0bf.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/57263231d5283ecb45a147ce55090f0b.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ed7d3b46eacc6edb37ecc8b093f99ae9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ef0d76767924e8a5e64d6c1bea7cd815.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73fa57e17399b3febd2e5476a11b8086.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a54a1e1939b59cdbc109febfbc7f290.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7749a3fdb1e3626c7689c4f97b517388.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>That Kid</b> | <b>Le Wanski</b> | <b>Lightforce</b> | <b>Kaaris</b> | <b>Mrs. Tekkno</b> | <b>Tic-Tekk-Toe</b>  |
+| <b>kaiesa7</b> | <b>Drillicit</b> | <b>Théa</b> | <b>2Geeked</b> | <b>Lightforce</b> | <b>Zuukou Mayzie</b>  |
 
 
 ## My top artists this year
