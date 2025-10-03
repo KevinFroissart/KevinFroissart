@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ed7d3b46eacc6edb37ecc8b093f99ae9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/73fa57e17399b3febd2e5476a11b8086.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ef0d76767924e8a5e64d6c1bea7cd815.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a54a1e1939b59cdbc109febfbc7f290.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7749a3fdb1e3626c7689c4f97b517388.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ed7d3b46eacc6edb37ecc8b093f99ae9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/eee6a593beb3b8040d74035e35312924.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/77f0471284fec88fe4dc232a4e74ff60.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a661ac945b1424f8d2c127f073ef004.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>kaiesa7</b> | <b>Drillicit</b> | <b>2Geeked</b> | <b>Théa</b> | <b>Lightforce</b> | <b>Zuukou Mayzie</b>  |
+| <b>kaiesa7</b> | <b>Tanukichi</b> | <b>Binary Squad</b> | <b>Dr. Peacock</b> | <b>Floxytek</b> | <b>Cia Rebeck</b>  |
 
 
 ## My top artists this year
