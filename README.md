@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9e650885888c9e87b052388330e771e8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/402fac72cc73fa918e79a3e8cc3bfd2d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b2b75d9c74b7256bfa02e042e0fa7caa.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/49df8e46df79549691cdb471721bb747.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/79805a9b61f07323b9601fc266a51d4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9e650885888c9e87b052388330e771e8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6f7412d5cb241b81c6d32a5728e89acc.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6220baadd454aab0dcf640c92ff17ba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/c6246d14777fffe12d8e80da7ef3ac4f.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/402fac72cc73fa918e79a3e8cc3bfd2d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>STO</b> | <b>Koboi</b> | <b>Mathu</b> | <b>Cia Rebeck</b> | <b>GNRØ</b> | <b>Jumo</b>  |
+| <b>Ptite Soeur</b> | <b>STO</b> | <b>Angsty Camboyz Revenge</b> | <b>DM 90</b> | <b>Aukina</b> | <b>Koboi</b>  |
 
 
 ## My top artists this year
