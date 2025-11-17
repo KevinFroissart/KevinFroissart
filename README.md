@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/79805a9b61f07323b9601fc266a51d4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/95d3c3b61bd3638c66bca605362f807b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/60ae03e9aa4d8cd98dd6c014d690fa58.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6c9395205c70e5aa61e0c2d58449c328.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/79805a9b61f07323b9601fc266a51d4a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/478e44bcff3fc2e96a6be74a537ed733.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1ed17abcaaeb4857834b126d82b4d000.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/95d3c3b61bd3638c66bca605362f807b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8af17b64e1577192c11fa6235ec7716d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6c9395205c70e5aa61e0c2d58449c328.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Ptite Soeur</b> | <b>FEMTOGO</b> | <b>Real O</b> | <b>55ASKY</b> | <b>Tom D.</b> | <b>Vilhelm.</b>  |
+| <b>Ptite Soeur</b> | <b>Zerosum</b> | <b>Nero</b> | <b>FEMTOGO</b> | <b>Real O</b> | <b>Vilhelm.</b>  |
 
 
 ## My top artists this year
