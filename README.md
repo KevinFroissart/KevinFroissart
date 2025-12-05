@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/827e5b7ae2d934b5c37b3d6a29b1d7e3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6a661ac945b1424f8d2c127f073ef004.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9b8b64d4fd554ce0a4ff8cb7c255b2b0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/65bb30b5c07e66507867dfe6ce1acb58.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4019871295c541b488fc579564dbec7e.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a8ef0a9e66f6dafd859140da36114213.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4019871295c541b488fc579564dbec7e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3636c895e65a03518b7adf668d0100cb.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b4e9df26142656aaeaae3886b1f607ef.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Odymel</b> | <b>Floxytek</b> | <b>Tehnik</b> | <b>Antenora</b> | <b>Azulo</b> | <b>Ocean Drive</b>  |
+| <b>Kichta</b> | <b>Sticky Pages</b> | <b>benzii</b> | <b>Ocean Drive</b> | <b>13 Block</b> | <b>2HOT2PLAY</b>  |
 
 
 ## My top artists this year
