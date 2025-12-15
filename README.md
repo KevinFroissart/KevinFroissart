@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/827e5b7ae2d934b5c37b3d6a29b1d7e3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e93a8d9d635c97bc02614c84a95e9b03.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b6de2da61c2f6a511dc94d05f855803b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4a32547409fe421030376f81c39cb73a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2748e40427dd76cc46e810a4eb6d578.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e93a8d9d635c97bc02614c84a95e9b03.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/827e5b7ae2d934b5c37b3d6a29b1d7e3.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/f2748e40427dd76cc46e810a4eb6d578.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b6de2da61c2f6a511dc94d05f855803b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aa8dadfa0ca2f36ca2db8dd695613d77.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Odymel</b> | <b>Billx</b> | <b>Fenrick</b> | <b>Durdenhauer</b> | <b>Sköne</b> | <b>Sticky Pages</b>  |
+| <b>Billx</b> | <b>Odymel</b> | <b>Sköne</b> | <b>Fenrick</b> | <b>Imperial Circus Dead Decadence</b> | <b>Mathu</b>  |
 
 
 ## My top artists this year
