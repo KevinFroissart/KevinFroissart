@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aa8dadfa0ca2f36ca2db8dd695613d77.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bebbd5ac8a1017069118e2740cda94ea.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b96414a9e0989d6f07a32bb12002cba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aa8dadfa0ca2f36ca2db8dd695613d77.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bebbd5ac8a1017069118e2740cda94ea.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b96414a9e0989d6f07a32bb12002cba8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7c362d687a861c0c74e7320a7ed03d3a.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Imperial Circus Dead Decadence</b> | <b>Antigone</b> | <b>maniken05</b> | <b>Abr.</b> | <b>BADGRUB</b> | <b>Mathu</b>  |
+| <b>Imperial Circus Dead Decadence</b> | <b>Antigone</b> | <b>maniken05</b> | <b>BADGRUB</b> | <b>Abr.</b> | <b>Von Bikräv</b>  |
 
 
 ## My top artists this year
