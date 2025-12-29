@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/aa8dadfa0ca2f36ca2db8dd695613d77.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b1ff79b82a7bc849886ed2eab10fa9ad.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3bad6b148a145094c3d2dafc1864697c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e5829fc3a232da942f3405b755f79d41.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8bdd527b10a31b607902a927fc40c7f9.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bebbd5ac8a1017069118e2740cda94ea.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb920388315540a8a7f316b9133c6586.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/07790504cb16db401148cc5dbaf652c0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/af615e87f69d544540f979c0cad0b407.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3c1cc351166d4938a486b13452dcae18.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/88d2af566495af4dea6279fce3955d8d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Imperial Circus Dead Decadence</b> | <b>Release Hallucination</b> | <b>Foreground Eclipse</b> | <b>Unlucky Morpheus</b> | <b>Abr.</b> | <b>Antigone</b>  |
+| <b>Kroma</b> | <b>CARTFISH</b> | <b>DJ Paul Elstak</b> | <b>Nicole Moudaber</b> | <b>Seeko</b> | <b>Sonny Wern</b>  |
 
 
 ## My top artists this year
