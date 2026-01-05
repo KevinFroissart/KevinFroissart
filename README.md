@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb920388315540a8a7f316b9133c6586.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/af615e87f69d544540f979c0cad0b407.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4b2f423fed8ac2af41af8acf7e4a4917.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/08320eaa51d13d396aab63a77608197c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3c1cc351166d4938a486b13452dcae18.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4b2f423fed8ac2af41af8acf7e4a4917.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/af615e87f69d544540f979c0cad0b407.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/fb920388315540a8a7f316b9133c6586.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/07790504cb16db401148cc5dbaf652c0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/08320eaa51d13d396aab63a77608197c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Kroma</b> | <b>DJ Paul Elstak</b> | <b>Gabry Ponte</b> | <b>Version 34</b> | <b>Kayzo</b> | <b>Nicole Moudaber</b>  |
+| <b>Gabry Ponte</b> | <b>DJ Paul Elstak</b> | <b>Kroma</b> | <b>Version 34</b> | <b>CARTFISH</b> | <b>Kayzo</b>  |
 
 
 ## My top artists this year
