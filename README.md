@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/a8ef0a9e66f6dafd859140da36114213.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e63382abe0e5de609b2fc3b7830f7a81.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e519238d6d7346aba8e65a569b80f7f2.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/54e1779c5c335871ddbac7e1d0792756.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/84ebedafaf3fa5c5362f2918c07f2940.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Fuck Leeches</b> | <b>Leʞs</b> | <b>Frvk</b> | <b>Kichta</b> | <b>Part Time Killer</b> | <b>Nihilist</b>  |
+| <b>Fuck Leeches</b> | <b>Leʞs</b> | <b>Verzetsstrijder</b> | <b>Frvk</b> | <b>Miimii KDS</b> | <b>CRAVO</b>  |
 
 
 ## My top artists this year
