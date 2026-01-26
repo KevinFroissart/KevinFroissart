@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/90e79f808477dc8b1302773dae9e3cd7.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cd74423cecbeaf6a0a84c362669cac30.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/110b74bbfb93083d3844c1ca2d836317.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cd74423cecbeaf6a0a84c362669cac30.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/798237046d4445c5b79b2f9e7b652e0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6944e29d690bbfdc07928ad1537e7766.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Dr. Peacock</b> | <b>Lady Gaga</b> | <b>paralich</b> | <b>Dutch Hour</b> | <b>Fuck Leeches</b> | <b>Brutalismus 3000</b>  |
+| <b>Dr. Peacock</b> | <b>paralich</b> | <b>Dutch Hour</b> | <b>Fuck Leeches</b> | <b>Mylène Farmer</b> | <b>Sefa</b>  |
 
 
 ## My top artists this year
