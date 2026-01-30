@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cd74423cecbeaf6a0a84c362669cac30.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e57e4f71504117cafb5caf10ed08fc2a.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/798237046d4445c5b79b2f9e7b652e0d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/6944e29d690bbfdc07928ad1537e7766.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4e0d61e1d66c55a172f6dca75387d848.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/7db02caf175e4a768baca0063755801c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/dbf29a86a54ba692284a8c29a0b024b8.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3ebe2756c6c447e1985b224d4ee73a08.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/e4ab923190a8401b9333832c49ebfc9c.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/29cfdb14b8029f7948e49f1ccaef162c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Dr. Peacock</b> | <b>paralich</b> | <b>Dutch Hour</b> | <b>Fuck Leeches</b> | <b>Mylène Farmer</b> | <b>Sefa</b>  |
+| <b>Boney M.</b> | <b>João Lágrima de Ouro</b> | <b>Téléphone</b> | <b>John Dahlbäck</b> | <b>Alizée</b> | <b>Donna Summer</b>  |
 
 
 ## My top artists this year
