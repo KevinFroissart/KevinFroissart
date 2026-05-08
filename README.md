@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/4591aab02a7e55c3de29f8754b4b3aa0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/cc8426d06fe2dd48222f487e3906585e.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87a6c8ab5f875202f2fb892c2392b35b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3e356de7df7dfd6c5ae966889fcc2fd5.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87a6c8ab5f875202f2fb892c2392b35b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd7beb91ce3d3d151f2ce7cb19e0fa06.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3e356de7df7dfd6c5ae966889fcc2fd5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b8d0f85b5ab7dc3ba0dfc53e3a1b2dae.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>55ASKY</b> | <b>GU1T4R</b> | <b>Laylow</b> | <b>Tehnik</b> | <b>dalynn</b> | <b>The Bird</b>  |
+| <b>55ASKY</b> | <b>dalynn</b> | <b>Joyca</b> | <b>The Bird</b> | <b>AITANA★★OFICIAL</b> | <b>Zek</b>  |
 
 
 ## My top artists this year
