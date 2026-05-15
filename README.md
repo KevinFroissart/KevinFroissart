@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/87a6c8ab5f875202f2fb892c2392b35b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/3e356de7df7dfd6c5ae966889fcc2fd5.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/bd7beb91ce3d3d151f2ce7cb19e0fa06.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/564e05dae01a4b559165ac91ec41a433.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/2d23d65cdde9b267e0f27f4263dd9e9b.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/61788fb0d0929b268904bb2d75760759.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/5b64653b1dfb93ae8539d94584fc1363.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>55ASKY</b> | <b>dalynn</b> | <b>The Bird</b> | <b>AEXTRAX</b> | <b>Joyca</b> | <b>AITANA★★OFICIAL</b>  |
+| <b>RomancePlanet</b> | <b>55ASKY</b> | <b>Dr. Peacock</b> | <b>AEXTRAX</b> | <b>Yù</b> | <b>PIG1987</b>  |
 
 
 ## My top artists this year
