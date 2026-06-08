@@ -10,9 +10,9 @@ Hello there! My name is Kévin, I'm a 25-year-old computer enthusiast and full s
 <a href="https://www.linkedin.com/in/kevin-froissart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Who I've been listening to this week
-| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff24f765ae21e0e569a91490dbd44610.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9ffd6385ccb93813fc622348377f199d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b1db0401ecbf73b8825b434170c613c0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1ae33871d0c1e629fb5ea8c94806fac0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8800cfa58667e7ebb5266579f3db1788.jpg>  |
+| <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/9ffd6385ccb93813fc622348377f199d.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/ff24f765ae21e0e569a91490dbd44610.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/b1db0401ecbf73b8825b434170c613c0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/1ae33871d0c1e629fb5ea8c94806fac0.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/8800cfa58667e7ebb5266579f3db1788.jpg> | <img src=https://raw.githubusercontent.com/KevinFroissart/KevinFroissart/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Mandidextrous</b> | <b>DLB</b> | <b>SCRAPING BI</b> | <b>Pitch Mad Attak</b> | <b>La Kajofol</b> | <b>Vandal</b>  |
+| <b>DLB</b> | <b>Mandidextrous</b> | <b>Pitch Mad Attak</b> | <b>La Kajofol</b> | <b>Vandal</b> | <b>SCRAPING BI</b>  |
 
 
 ## My top artists this year
